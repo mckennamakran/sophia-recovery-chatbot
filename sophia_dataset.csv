@@ -1,0 +1,453 @@
+first_name,surname,age,gender,addiction_type,triggers,cravings,craving_intensity,accessibility_or_exposure,medication,stress_levels,self_esteem,mental_health_conditions,life_stressors,support,relapse_phase,prob_of_relapse
+Anthony,Lee,40,other,inhalants -> glue,"Low self-esteem, Stress, Anger",mental obsession; physical urge,7,1,,2,4,adhd; depression,recent loss or grief; legal issues,support group,Medium,0.3
+Tyler,Walker,25,female,hallucinogens -> lsd,"Guilt or shame, Depression, Anxiety, Low self-esteem, Boredom, Loneliness",physical urge,10,5,,2,12,ptsd; anxiety,relationship issues,therapist,Medium,0.27
+Charles,Hall,33,male,club drugs -> mdma,"Guilt or shame, Low self-esteem, Anger, Boredom",physical urge; mental obsession,3,4,fluoxetine,2,3,anxiety; ptsd,health problems; legal issues,friends,High,0.64
+Tara,Allen,57,female,opioids -> heroin,"Loneliness, Stress, Anger, Low self-esteem",emotional craving; physical urge,1,4,diazepam,6,4,,work or school stress; legal issues,therapist,High,0.3
+Derek,Young,18,other,opioids -> heroin,"Loneliness, Depression, Boredom, Guilt or shame, Anxiety",stress-induced craving,6,0,,7,2,ptsd; bipolar disorder,work or school stress,friends,Medium,0.63
+Stacy,King,31,female,stimulants -> cocaine,"Depression, Stress, Anger, Low self-esteem",habit-based craving; mental obsession,9,1,sertraline,3,2,,relationship issues; health problems,support group,High,0.38
+Kimberly,Wright,44,other,sedatives -> benzodiazepines,"Stress, Loneliness, Boredom, Low self-esteem",emotional craving,7,1,diazepam,10,2,anxiety,relationship issues; health problems,family,Low,0.43
+John,Scott,47,female,stimulants -> cocaine,"Low self-esteem, Loneliness, Boredom, Anxiety, Guilt or shame",stress-induced craving,3,3,,8,6,depression,,family,Medium,0.27
+Brenda,Green,42,female,cannabis -> marijuana,"Loneliness, Boredom, Anxiety",emotional craving,9,5,fluoxetine,4,3,ptsd; anxiety,,friends,Medium,0.61
+Kristen,Adams,59,other,cannabis -> marijuana,"Depression, Boredom, Low self-esteem",habit-based craving,6,4,,3,10,bipolar disorder,recent loss or grief; legal issues,family,High,0.21
+Ryan,Nelson,53,other,sedatives -> benzodiazepines,"Boredom, Loneliness, Anger, Guilt or shame",habit-based craving; stress-induced craving,1,3,sertraline,1,1,adhd; anxiety,,,Low,0.11
+Kyle,Baker,49,female,club drugs -> mdma,"Anger, Depression, Boredom, Stress, Guilt or shame, Loneliness",stress-induced craving,9,5,sertraline,2,8,,health problems; recent loss or grief,friends,High,0.76
+Sean,Carter,34,other,hallucinogens -> lsd,"Anger, Low self-esteem, Depression, Boredom, Loneliness",mental obsession; physical urge,3,1,citalopram,1,7,,legal issues,friends,Medium,0.57
+Steve,Mitchell,46,male,club drugs -> mdma,"Anger, Boredom, Guilt or shame, Stress, Loneliness, Anxiety",mental obsession,4,2,citalopram,6,3,,work or school stress; health problems,therapist,Low,0.87
+Paul,Perez,27,other,opioids -> heroin,"Low self-esteem, Guilt or shame, Anger, Stress",physical urge; emotional craving,6,4,,2,0,anxiety,work or school stress; relationship issues,,High,0.7
+Robert,Roberts,36,other,opioids -> heroin,"Depression, Low self-esteem, Guilt or shame, Boredom, Anger",habit-based craving; physical urge,8,0,citalopram,5,5,,health problems,support group,Medium,0.12
+Crystal,Turner,50,female,hallucinogens -> lsd,"Depression, Anger, Anxiety, Guilt or shame",stress-induced craving,9,5,,2,11,,financial problems; health problems,family,Medium,0.74
+Jessica,Phillips,44,female,club drugs -> mdma,"Anxiety, Loneliness, Low self-esteem, Stress, Depression, Guilt or shame",habit-based craving; stress-induced craving,9,1,,9,4,,legal issues,,Low,0.16
+Lynn,Campbell,41,other,hallucinogens -> lsd,"Anger, Anxiety, Depression, Stress, Guilt or shame",habit-based craving,9,2,citalopram,5,1,anxiety,health problems; financial problems,,Medium,0.13
+Jason,Parker,43,male,club drugs -> mdma,"Low self-esteem, Loneliness, Anxiety",physical urge; habit-based craving,7,4,fluoxetine,4,5,adhd; anxiety,recent loss or grief; financial problems,support group,Medium,0.7
+Sean,Evans,55,female,sedatives -> benzodiazepines,"Anger, Loneliness, Anxiety, Depression",physical urge; mental obsession,2,1,sertraline,7,3,anxiety,health problems,support group,High,0.51
+Cathy,Edwards,56,male,cannabis -> marijuana,"Anger, Loneliness, Boredom, Low self-esteem",emotional craving,10,1,,10,12,,financial problems,family,Medium,0.22
+Rhonda,Collins,18,male,hallucinogens -> lsd,"Stress, Anger, Boredom, Guilt or shame",habit-based craving; stress-induced craving,2,2,,10,11,,recent loss or grief; relationship issues,friends,Medium,0.33
+Andrew,Stewart,38,female,cannabis -> marijuana,"Guilt or shame, Low self-esteem, Anxiety",physical urge; stress-induced craving,9,2,sertraline,2,4,,health problems; relationship issues,family,High,0.43
+Robert,Sanchez,39,other,club drugs -> mdma,"Anger, Boredom, Stress, Depression, Low self-esteem",stress-induced craving,8,2,,0,4,ptsd; depression,,support group,Medium,0.63
+Michelle,Morris,45,female,opioids -> heroin,"Anger, Low self-esteem, Anxiety, Stress",emotional craving,7,0,fluoxetine,6,4,depression,financial problems; legal issues,friends,Medium,0.13
+Amy,Rogers,57,female,sedatives -> benzodiazepines,"Anger, Boredom, Anxiety, Low self-esteem, Stress, Depression",emotional craving; habit-based craving,5,0,sertraline,8,12,depression,relationship issues,,Medium,0.45
+Devin,Reed,44,other,hallucinogens -> lsd,"Anger, Anxiety, Stress",physical urge; emotional craving,5,1,citalopram,0,2,bipolar disorder,,support group,High,0.73
+Sherry,Cook,65,other,sedatives -> benzodiazepines,"Anger, Boredom, Low self-esteem, Stress",stress-induced craving; habit-based craving,5,0,fluoxetine,2,1,ptsd; adhd,financial problems,family,High,0.35
+Randy,Morgan,46,female,opioids -> heroin,"Loneliness, Anxiety, Low self-esteem, Depression",mental obsession,1,2,,8,1,adhd,legal issues,support group,Low,0.1
+Susan,Bell,22,other,sedatives -> benzodiazepines,"Guilt or shame, Depression, Boredom",mental obsession; physical urge,3,5,diazepam,1,7,anxiety; bipolar disorder,,friends,Low,0.28
+Jasmine,Bailey,21,female,hallucinogens -> lsd,"Guilt or shame, Anxiety, Depression, Anger",stress-induced craving; mental obsession,2,2,,1,11,bipolar disorder; anxiety,,family,High,0.51
+Daniel,Johnson,53,male,club drugs -> mdma,"Boredom, Loneliness, Low self-esteem",habit-based craving; physical urge,9,5,diazepam,8,12,,relationship issues; work or school stress,therapist,Low,0.4
+Craig,Williams,36,female,inhalants -> glue,"Loneliness, Guilt or shame, Anger",mental obsession,3,0,diazepam,2,6,depression; adhd,financial problems,family,High,0.22
+Barbara,Brown,65,other,club drugs -> mdma,"Boredom, Loneliness, Anger, Depression",physical urge; habit-based craving,3,3,sertraline,2,1,,work or school stress; financial problems,family,Low,0.57
+Bobby,Davis,40,other,sedatives -> benzodiazepines,"Anger, Low self-esteem, Boredom, Loneliness, Anxiety, Stress",physical urge; mental obsession,9,2,,1,11,bipolar disorder; anxiety,relationship issues; work or school stress,,Medium,0.4
+Stephanie,Wilson,46,male,stimulants -> cocaine,"Low self-esteem, Boredom, Guilt or shame",physical urge,1,2,diazepam,0,5,,financial problems,family,High,0.79
+Christopher,Miller,48,other,club drugs -> mdma,"Anger, Low self-esteem, Loneliness, Guilt or shame, Stress, Boredom",physical urge,9,2,,7,9,ptsd,legal issues,,Low,0.49
+William,Moore,63,female,sedatives -> benzodiazepines,"Low self-esteem, Anger, Boredom, Guilt or shame, Loneliness, Anxiety",mental obsession,6,2,diazepam,10,4,anxiety,recent loss or grief; health problems,,Low,0.15
+Jennifer,Taylor,24,male,hallucinogens -> lsd,"Low self-esteem, Guilt or shame, Anger",physical urge; emotional craving,6,1,citalopram,10,0,bipolar disorder,health problems; recent loss or grief,friends,Low,0.81
+Alan,Anderson,18,other,club drugs -> mdma,"Stress, Anger, Boredom, Low self-esteem",mental obsession; physical urge,9,3,fluoxetine,5,0,depression,health problems,support group,Medium,0.64
+Mary,Thomas,39,other,sedatives -> benzodiazepines,"Anxiety, Anger, Loneliness",mental obsession; physical urge,2,2,,6,2,,work or school stress; financial problems,,High,0.38
+David,Jackson,19,other,hallucinogens -> lsd,"Loneliness, Stress, Depression, Boredom, Low self-esteem, Anger",mental obsession; physical urge,9,5,diazepam,1,2,anxiety,health problems,friends,Low,0.53
+Donna,White,52,other,hallucinogens -> lsd,"Loneliness, Boredom, Anger, Low self-esteem, Stress, Guilt or shame",stress-induced craving,2,5,fluoxetine,5,8,adhd; anxiety,health problems,family,High,0.32
+Regina,Harris,24,female,hallucinogens -> lsd,"Stress, Anger, Depression, Guilt or shame, Low self-esteem",habit-based craving,6,0,,7,6,depression; ptsd,,support group,Low,0.87
+Richard,Martin,31,other,sedatives -> benzodiazepines,"Boredom, Anxiety, Stress",physical urge; emotional craving,9,4,,5,2,bipolar disorder,work or school stress,friends,High,0.27
+Kelly,Thompson,56,other,opioids -> heroin,"Boredom, Anger, Stress, Anxiety",stress-induced craving,4,0,citalopram,8,1,adhd; anxiety,relationship issues,support group,Medium,0.34
+Mario,Garcia,22,male,sedatives -> benzodiazepines,"Loneliness, Guilt or shame, Stress, Depression, Low self-esteem",emotional craving; stress-induced craving,10,3,citalopram,7,7,anxiety; bipolar disorder,,family,Medium,0.5
+Sharon,Rodriguez,47,male,club drugs -> mdma,"Stress, Loneliness, Boredom, Anxiety, Low self-esteem, Depression",mental obsession,1,4,sertraline,2,5,ptsd; depression,relationship issues; financial problems,friends,Medium,0.13
+Justin,Martinez,59,female,stimulants -> cocaine,"Anger, Guilt or shame, Stress, Anxiety, Low self-esteem, Boredom",habit-based craving,5,3,,1,12,ptsd; adhd,recent loss or grief,family,Low,0.56
+Chelsea,Aguilar,29,female,club drugs -> mdma,"Loneliness, Low self-esteem, Depression",stress-induced craving; emotional craving,8,5,sertraline,2,8,adhd; bipolar disorder,financial problems,friends,Medium,0.83
+Andrea,Martin,30,female,stimulants -> cocaine,"Anxiety, Guilt or shame, Depression, Stress",mental obsession; emotional craving,4,4,fluoxetine,4,12,anxiety,legal issues,family,Medium,0.35
+Emily,Baker,51,other,club drugs -> mdma,"Low self-esteem, Depression, Guilt or shame, Anxiety",stress-induced craving,8,3,fluoxetine,0,10,,,therapist,High,0.6
+Katherine,Marshall,51,male,inhalants -> glue,"Guilt or shame, Stress, Anger, Depression",habit-based craving; stress-induced craving,9,1,,0,0,ptsd,,therapist,Medium,0.86
+Holly,Collins,40,female,inhalants -> glue,"Boredom, Anger, Stress",physical urge; stress-induced craving,9,3,fluoxetine,1,8,anxiety,financial problems,family,Low,0.59
+Veronica,Johnson,27,male,inhalants -> glue,"Depression, Guilt or shame, Low self-esteem, Stress",emotional craving; physical urge,3,2,diazepam,9,3,anxiety; bipolar disorder,financial problems,therapist,Medium,0.54
+Brittany,French,57,female,opioids -> heroin,"Depression, Anger, Boredom, Stress, Loneliness",physical urge; stress-induced craving,3,2,citalopram,5,2,depression; ptsd,legal issues,therapist,Medium,0.14
+Katherine,Reed,37,other,club drugs -> mdma,"Depression, Guilt or shame, Stress, Anger, Loneliness, Anxiety",habit-based craving,10,1,diazepam,0,11,ptsd; adhd,recent loss or grief; work or school stress,friends,Low,0.68
+Paul,Rivera,48,other,opioids -> heroin,"Anxiety, Anger, Boredom, Low self-esteem, Depression, Stress",habit-based craving; emotional craving,5,3,,6,10,,work or school stress,therapist,Medium,0.11
+Tony,Lopez,51,male,club drugs -> mdma,"Anger, Stress, Loneliness, Guilt or shame, Anxiety",mental obsession; habit-based craving,4,1,diazepam,9,6,depression,financial problems,family,Low,0.35
+Benjamin,Hubbard,47,other,sedatives -> benzodiazepines,"Loneliness, Boredom, Stress",mental obsession,7,4,fluoxetine,0,8,depression; ptsd,legal issues,support group,Low,0.43
+Richard,Moore,58,other,opioids -> heroin,"Loneliness, Depression, Anxiety, Low self-esteem, Guilt or shame, Stress",physical urge; mental obsession,6,1,fluoxetine,7,9,depression,,therapist,Low,0.1
+Ashley,Fleming,39,other,stimulants -> cocaine,"Anger, Depression, Guilt or shame, Loneliness, Anxiety",habit-based craving,1,1,,6,8,,,friends,Low,0.84
+Anne,Jenkins,37,other,stimulants -> cocaine,"Stress, Depression, Boredom, Anxiety, Guilt or shame",physical urge,9,4,sertraline,1,2,ptsd,recent loss or grief; relationship issues,friends,Low,0.15
+Maria,Morris,23,other,club drugs -> mdma,"Depression, Low self-esteem, Loneliness",mental obsession,10,5,diazepam,7,1,bipolar disorder,,family,Low,0.31
+Justin,Schmidt,54,other,stimulants -> cocaine,"Loneliness, Stress, Guilt or shame, Depression, Anger",mental obsession; stress-induced craving,5,3,sertraline,10,7,adhd,recent loss or grief,therapist,Medium,0.87
+Sarah,Morris,44,other,club drugs -> mdma,"Guilt or shame, Loneliness, Boredom, Anger, Depression",habit-based craving,3,5,,0,4,anxiety,,therapist,Medium,0.34
+Meghan,Cunningham,33,male,inhalants -> glue,"Guilt or shame, Depression, Boredom, Loneliness, Stress",emotional craving,1,4,sertraline,5,7,bipolar disorder,legal issues,family,Low,0.17
+Ashley,Joseph,26,male,opioids -> heroin,"Anxiety, Depression, Low self-esteem, Stress, Anger, Boredom",mental obsession,7,3,,5,3,anxiety,work or school stress; health problems,,High,0.89
+Darlene,Davis,31,other,opioids -> heroin,"Anger, Low self-esteem, Depression",physical urge; emotional craving,1,2,citalopram,0,12,bipolar disorder; depression,recent loss or grief; health problems,support group,High,0.75
+Jennifer,Gibson,54,other,opioids -> heroin,"Depression, Boredom, Anger, Anxiety",mental obsession,3,0,sertraline,5,5,adhd; ptsd,health problems; financial problems,,High,0.55
+Sheryl,Villa,52,other,inhalants -> glue,"Anxiety, Boredom, Stress, Anger",physical urge; habit-based craving,8,1,,0,10,,,support group,Low,0.22
+Deanna,Rivera,28,female,hallucinogens -> lsd,"Boredom, Guilt or shame, Low self-esteem, Anger",physical urge; mental obsession,2,1,,2,0,depression,work or school stress; health problems,family,Low,0.43
+Ricky,Sexton,21,female,hallucinogens -> lsd,"Stress, Anger, Anxiety, Guilt or shame",mental obsession,7,4,,5,9,ptsd,,family,Low,0.61
+Larry,Estes,18,other,club drugs -> mdma,"Guilt or shame, Loneliness, Anger, Stress",emotional craving; mental obsession,9,0,citalopram,2,7,,work or school stress,family,Medium,0.22
+Dakota,Hickman,30,other,club drugs -> mdma,"Stress, Low self-esteem, Anxiety, Depression",mental obsession; physical urge,1,2,sertraline,6,2,ptsd,relationship issues; financial problems,support group,High,0.64
+Raven,Cooke,19,male,stimulants -> cocaine,"Low self-esteem, Stress, Anger, Guilt or shame",stress-induced craving,8,2,fluoxetine,4,9,ptsd,,friends,Medium,0.72
+Judy,Gutierrez,41,male,stimulants -> cocaine,"Boredom, Anxiety, Depression, Stress",habit-based craving; physical urge,2,3,fluoxetine,3,5,,recent loss or grief,,High,0.5
+Michele,Jones,58,other,stimulants -> cocaine,"Low self-esteem, Stress, Depression, Loneliness, Boredom, Anger",stress-induced craving; physical urge,9,3,,5,5,bipolar disorder,work or school stress,family,Low,0.23
+Gregory,Watkins,36,female,sedatives -> benzodiazepines,"Stress, Depression, Anger",emotional craving; physical urge,7,3,,8,0,adhd,health problems,friends,Medium,0.72
+Randall,Everett,48,male,cannabis -> marijuana,"Depression, Guilt or shame, Stress, Loneliness, Anger, Anxiety",stress-induced craving,8,3,citalopram,8,5,adhd; anxiety,health problems; work or school stress,friends,High,0.31
+Joann,Smith,58,female,stimulants -> cocaine,"Boredom, Low self-esteem, Anxiety, Stress, Loneliness, Anger",emotional craving,7,0,citalopram,4,4,depression,financial problems; relationship issues,family,Medium,0.24
+Sheila,Rangel,62,other,sedatives -> benzodiazepines,"Anxiety, Stress, Anger",mental obsession,2,1,citalopram,1,0,adhd,health problems,therapist,Medium,0.29
+Matthew,Barajas,49,female,club drugs -> mdma,"Stress, Loneliness, Depression",habit-based craving; physical urge,5,3,fluoxetine,9,11,bipolar disorder,work or school stress; relationship issues,therapist,Low,0.64
+Steven,Hansen,29,female,stimulants -> cocaine,"Anger, Boredom, Anxiety, Low self-esteem, Loneliness",habit-based craving; stress-induced craving,2,3,fluoxetine,7,12,bipolar disorder; ptsd,financial problems,therapist,Medium,0.6
+Leslie,Simpson,49,other,stimulants -> cocaine,"Guilt or shame, Anxiety, Boredom, Depression, Stress, Anger",emotional craving,4,4,fluoxetine,4,4,depression,legal issues; health problems,,Low,0.9
+Savannah,James,23,female,club drugs -> mdma,"Guilt or shame, Low self-esteem, Boredom, Anger, Depression",mental obsession,1,0,,10,5,bipolar disorder; anxiety,legal issues; financial problems,friends,Medium,0.8
+Kristen,Ramirez,24,female,stimulants -> cocaine,"Depression, Boredom, Low self-esteem, Guilt or shame, Loneliness, Anger",emotional craving,1,1,fluoxetine,3,6,bipolar disorder,health problems; work or school stress,therapist,Low,0.51
+John,Patterson,35,male,hallucinogens -> lsd,"Boredom, Depression, Low self-esteem, Guilt or shame",physical urge,6,1,,6,7,,health problems; work or school stress,family,High,0.39
+Breanna,Sellers,29,female,opioids -> heroin,"Anger, Boredom, Guilt or shame",habit-based craving; physical urge,9,2,fluoxetine,9,5,anxiety; depression,financial problems; work or school stress,family,High,0.75
+Melinda,Pearson,65,female,opioids -> heroin,"Boredom, Low self-esteem, Loneliness, Anger",mental obsession; habit-based craving,6,5,,5,12,adhd; ptsd,,support group,Low,0.82
+Christopher,Carr,24,female,hallucinogens -> lsd,"Low self-esteem, Stress, Loneliness, Guilt or shame, Anxiety, Anger",emotional craving; physical urge,8,3,,5,4,ptsd,relationship issues; recent loss or grief,support group,Low,0.41
+Ashley,Henderson,37,other,stimulants -> cocaine,"Stress, Guilt or shame, Anger",physical urge,9,3,sertraline,3,4,bipolar disorder; ptsd,,family,High,0.45
+Curtis,Wang,46,female,sedatives -> benzodiazepines,"Anger, Depression, Stress, Guilt or shame, Loneliness, Low self-esteem",physical urge; mental obsession,8,0,diazepam,5,1,depression; adhd,health problems; recent loss or grief,support group,Low,0.72
+Pamela,Williams,34,other,sedatives -> benzodiazepines,"Anxiety, Boredom, Stress",stress-induced craving; physical urge,6,5,,3,2,,work or school stress; recent loss or grief,support group,Medium,0.13
+Patricia,Parker,49,other,inhalants -> glue,"Low self-esteem, Anger, Stress, Depression",habit-based craving; stress-induced craving,1,0,citalopram,0,11,,health problems,therapist,Low,0.61
+Douglas,Malone,64,other,opioids -> heroin,"Loneliness, Low self-esteem, Guilt or shame, Depression, Anxiety",mental obsession; emotional craving,7,1,fluoxetine,1,6,adhd,financial problems; work or school stress,family,Medium,0.45
+Kenneth,Parker,63,female,opioids -> heroin,"Boredom, Loneliness, Low self-esteem",emotional craving; mental obsession,7,3,,8,7,bipolar disorder; adhd,health problems,family,Medium,0.71
+Joshua,Hart,34,male,inhalants -> glue,"Anxiety, Boredom, Guilt or shame, Low self-esteem, Stress",stress-induced craving; emotional craving,2,4,diazepam,3,10,adhd,work or school stress,,Medium,0.72
+Larry,Griffin,32,other,hallucinogens -> lsd,"Depression, Stress, Guilt or shame, Low self-esteem, Loneliness, Anxiety",habit-based craving,2,1,diazepam,7,11,depression,legal issues; recent loss or grief,friends,High,0.81
+Kathryn,Harrison,59,female,hallucinogens -> lsd,"Anxiety, Loneliness, Guilt or shame, Stress",physical urge,10,0,diazepam,5,12,adhd,relationship issues,family,Medium,0.26
+Luis,Rice,46,other,opioids -> heroin,"Boredom, Low self-esteem, Loneliness, Anger, Stress, Depression",habit-based craving; stress-induced craving,9,0,,6,7,ptsd,financial problems; recent loss or grief,family,Medium,0.14
+Chad,Smith,19,other,sedatives -> benzodiazepines,"Anger, Loneliness, Stress",physical urge; emotional craving,6,4,diazepam,5,2,bipolar disorder,work or school stress,friends,High,0.29
+Mark,Hayes,33,male,inhalants -> glue,"Boredom, Anxiety, Anger, Stress, Loneliness",emotional craving,10,0,,1,9,bipolar disorder; depression,health problems,support group,Medium,0.35
+Samantha,Mcclain,57,other,sedatives -> benzodiazepines,"Depression, Stress, Guilt or shame, Anxiety, Anger, Loneliness",stress-induced craving; physical urge,9,0,diazepam,7,0,,,family,Medium,0.84
+Andrew,Sandoval,46,female,stimulants -> cocaine,"Depression, Boredom, Loneliness, Guilt or shame, Anxiety, Anger",habit-based craving; emotional craving,6,4,fluoxetine,8,3,adhd,financial problems,therapist,Medium,0.38
+Matthew,Hayes,19,other,club drugs -> mdma,"Anger, Stress, Anxiety, Guilt or shame",stress-induced craving,10,2,,10,1,bipolar disorder; ptsd,recent loss or grief; financial problems,friends,High,0.54
+John,Ross,37,female,inhalants -> glue,"Depression, Anxiety, Guilt or shame, Boredom, Low self-esteem, Anger",habit-based craving; emotional craving,2,0,diazepam,3,9,adhd; depression,,therapist,High,0.74
+Dana,James,38,female,inhalants -> glue,"Loneliness, Stress, Guilt or shame, Low self-esteem, Anxiety, Boredom",stress-induced craving,8,0,citalopram,8,0,ptsd,recent loss or grief; health problems,family,Low,0.25
+Catherine,Smith,48,female,inhalants -> glue,"Boredom, Anger, Anxiety, Loneliness, Low self-esteem",physical urge; habit-based craving,3,3,sertraline,8,9,adhd,health problems,friends,Low,0.59
+Emily,Foster,25,female,opioids -> heroin,"Loneliness, Stress, Guilt or shame, Boredom, Anxiety, Low self-esteem",physical urge,10,5,,3,1,ptsd; bipolar disorder,health problems; financial problems,support group,Medium,0.83
+Clayton,Butler,32,male,sedatives -> benzodiazepines,"Anxiety, Guilt or shame, Depression",emotional craving; stress-induced craving,4,1,sertraline,4,1,adhd,relationship issues; recent loss or grief,family,Low,0.32
+Stephanie,Ramos,58,female,stimulants -> cocaine,"Anger, Loneliness, Stress, Depression, Boredom, Guilt or shame",stress-induced craving,6,1,sertraline,0,5,,work or school stress; legal issues,therapist,Low,0.71
+Joseph,Munoz,25,other,hallucinogens -> lsd,"Stress, Anger, Guilt or shame, Anxiety, Boredom, Low self-esteem",habit-based craving,1,2,diazepam,4,2,bipolar disorder,,,Low,0.48
+Timothy,Newton,40,other,club drugs -> mdma,"Stress, Boredom, Depression, Guilt or shame, Anger",mental obsession,5,0,citalopram,2,10,depression; anxiety,legal issues; recent loss or grief,family,Medium,0.43
+David,Jackson,31,male,hallucinogens -> lsd,"Anger, Boredom, Guilt or shame",habit-based craving,9,5,diazepam,7,9,,recent loss or grief,friends,Low,0.46
+Anthony,Martin,36,male,sedatives -> benzodiazepines,"Stress, Boredom, Low self-esteem, Guilt or shame",mental obsession,6,4,sertraline,7,7,anxiety; ptsd,financial problems; relationship issues,,High,0.35
+Michael,Logan,20,male,cannabis -> marijuana,"Depression, Anxiety, Anger, Boredom",mental obsession,5,5,citalopram,6,11,bipolar disorder,,support group,High,0.55
+David,Hall,46,female,opioids -> heroin,"Boredom, Stress, Low self-esteem",stress-induced craving; physical urge,4,3,sertraline,1,8,anxiety,,support group,Low,0.17
+Holly,Jackson,53,male,hallucinogens -> lsd,"Guilt or shame, Stress, Depression, Boredom, Anxiety, Anger",stress-induced craving; emotional craving,3,3,,7,2,ptsd; adhd,,family,High,0.57
+Elizabeth,Villa,48,male,hallucinogens -> lsd,"Guilt or shame, Boredom, Anger",habit-based craving; stress-induced craving,5,4,diazepam,9,11,ptsd,legal issues,,Low,0.31
+Thomas,Briggs,35,male,cannabis -> marijuana,"Boredom, Stress, Guilt or shame",habit-based craving,8,1,fluoxetine,8,9,adhd; ptsd,,therapist,Medium,0.67
+Tyler,Schmidt,29,other,opioids -> heroin,"Low self-esteem, Guilt or shame, Stress, Anger",habit-based craving,10,1,citalopram,6,0,bipolar disorder,health problems; legal issues,friends,High,0.35
+Blake,Malone,59,male,inhalants -> glue,"Loneliness, Stress, Anger, Depression",habit-based craving; stress-induced craving,8,5,fluoxetine,7,7,,financial problems; legal issues,,Medium,0.34
+Courtney,Estrada,45,other,hallucinogens -> lsd,"Boredom, Guilt or shame, Low self-esteem, Loneliness, Anger, Stress",physical urge; emotional craving,10,0,diazepam,8,7,,financial problems,friends,Medium,0.11
+Miranda,Sims,55,other,cannabis -> marijuana,"Anxiety, Depression, Stress, Boredom, Guilt or shame, Loneliness",mental obsession,7,5,,6,2,ptsd,health problems,friends,Medium,0.69
+Ashley,Perkins,63,female,hallucinogens -> lsd,"Depression, Stress, Guilt or shame, Loneliness, Low self-esteem",mental obsession; habit-based craving,2,3,,1,8,adhd; depression,,,Medium,0.53
+Christopher,Peterson,49,male,cannabis -> marijuana,"Depression, Anger, Loneliness",emotional craving; physical urge,2,5,,10,0,adhd; ptsd,relationship issues,family,Medium,0.82
+Charles,Murphy,52,other,sedatives -> benzodiazepines,"Depression, Boredom, Guilt or shame, Anxiety",mental obsession,4,0,,0,7,,health problems,therapist,Low,0.71
+Megan,Scott,37,female,hallucinogens -> lsd,"Anger, Boredom, Depression, Guilt or shame, Low self-esteem, Anxiety",stress-induced craving,5,3,,10,0,,legal issues,,High,0.45
+Dean,Johnson,56,male,opioids -> heroin,"Anger, Low self-esteem, Boredom",emotional craving,1,3,,7,9,anxiety,legal issues; relationship issues,friends,Medium,0.34
+Frederick,Perez,42,other,sedatives -> benzodiazepines,"Stress, Anxiety, Depression, Loneliness, Low self-esteem, Boredom",emotional craving; stress-induced craving,7,3,,6,0,bipolar disorder,work or school stress; recent loss or grief,,High,0.11
+Alexander,Franklin,22,other,inhalants -> glue,"Anger, Loneliness, Guilt or shame",habit-based craving,4,1,,6,9,ptsd; anxiety,,family,Low,0.65
+Terri,Smith,41,male,opioids -> heroin,"Guilt or shame, Low self-esteem, Stress, Boredom, Loneliness, Anxiety",stress-induced craving,7,0,,0,4,bipolar disorder,relationship issues,family,Low,0.88
+Sara,Edwards,29,male,club drugs -> mdma,"Anger, Low self-esteem, Depression, Loneliness, Stress, Guilt or shame",stress-induced craving,8,1,diazepam,10,12,,,friends,Low,0.16
+Scott,Brooks,37,female,hallucinogens -> lsd,"Anxiety, Boredom, Depression",physical urge; habit-based craving,9,1,sertraline,9,0,adhd,financial problems; health problems,therapist,Medium,0.78
+Alicia,Phillips,39,male,hallucinogens -> lsd,"Boredom, Guilt or shame, Depression, Low self-esteem",mental obsession,3,3,fluoxetine,10,0,,relationship issues,family,Medium,0.61
+Daniel,Thompson,50,male,club drugs -> mdma,"Boredom, Anger, Depression, Guilt or shame",physical urge; stress-induced craving,3,0,sertraline,4,1,anxiety,,family,Low,0.28
+Daniel,Jacobs,24,female,hallucinogens -> lsd,"Depression, Boredom, Guilt or shame, Stress, Loneliness, Anxiety",stress-induced craving,8,0,,8,10,depression; ptsd,relationship issues; recent loss or grief,support group,Low,0.33
+Paul,Taylor,44,female,hallucinogens -> lsd,"Loneliness, Anger, Anxiety, Stress",stress-induced craving,9,3,diazepam,2,12,,financial problems; relationship issues,therapist,High,0.87
+Maria,Tapia,40,female,opioids -> heroin,"Boredom, Guilt or shame, Depression, Loneliness, Anxiety, Anger",emotional craving,2,1,fluoxetine,4,9,depression,legal issues; financial problems,,Medium,0.27
+Paul,Benson,55,male,opioids -> heroin,"Depression, Stress, Anger, Guilt or shame",habit-based craving,3,1,,3,12,anxiety,legal issues,family,Medium,0.16
+Sarah,Bailey,52,other,stimulants -> cocaine,"Guilt or shame, Low self-esteem, Anxiety",physical urge,8,1,,9,1,adhd; anxiety,recent loss or grief,friends,Medium,0.84
+Benjamin,Smith,25,female,club drugs -> mdma,"Depression, Anxiety, Anger",mental obsession; stress-induced craving,3,5,,8,7,bipolar disorder,recent loss or grief; health problems,therapist,Medium,0.26
+Lisa,Watkins,19,other,stimulants -> cocaine,"Loneliness, Stress, Guilt or shame, Depression",stress-induced craving,4,3,diazepam,6,10,ptsd,health problems; recent loss or grief,family,Low,0.64
+Sandra,Jones,47,female,opioids -> heroin,"Depression, Guilt or shame, Stress, Anger, Loneliness, Anxiety",physical urge,1,5,diazepam,10,6,anxiety; ptsd,,family,Medium,0.7
+Aaron,Vaughn,40,female,club drugs -> mdma,"Boredom, Depression, Anxiety",mental obsession,1,2,citalopram,10,3,adhd,,family,Low,0.71
+John,Thompson,39,other,inhalants -> glue,"Anxiety, Stress, Low self-esteem",emotional craving,6,3,diazepam,1,8,ptsd; adhd,financial problems,support group,Medium,0.82
+Richard,Mercado,60,female,stimulants -> cocaine,"Anger, Stress, Loneliness, Depression",mental obsession; physical urge,2,1,citalopram,5,12,,,support group,High,0.47
+Kevin,Poole,54,other,club drugs -> mdma,"Boredom, Stress, Anxiety, Loneliness, Depression, Guilt or shame",emotional craving; stress-induced craving,10,1,fluoxetine,6,11,adhd; anxiety,,family,Medium,0.74
+Thomas,Gill,51,male,opioids -> heroin,"Depression, Boredom, Anger, Anxiety, Low self-esteem",mental obsession; physical urge,6,5,citalopram,2,8,adhd; ptsd,recent loss or grief,,Medium,0.23
+Jason,Torres,31,male,inhalants -> glue,"Stress, Anxiety, Loneliness, Guilt or shame, Low self-esteem",stress-induced craving,2,0,citalopram,4,0,depression,health problems; work or school stress,support group,High,0.7
+Peter,Tucker,37,female,hallucinogens -> lsd,"Anger, Depression, Low self-esteem, Guilt or shame, Loneliness, Anxiety",emotional craving,7,2,,3,7,bipolar disorder,legal issues; relationship issues,therapist,Low,0.46
+Colleen,Johnson,48,male,club drugs -> mdma,"Loneliness, Low self-esteem, Anxiety",physical urge,1,0,,1,5,,,family,Medium,0.41
+Ryan,Smith,28,other,inhalants -> glue,"Boredom, Low self-esteem, Anger, Guilt or shame, Stress",stress-induced craving; emotional craving,2,1,diazepam,7,8,bipolar disorder,legal issues; financial problems,family,Medium,0.52
+Katherine,Higgins,59,female,opioids -> heroin,"Guilt or shame, Loneliness, Stress, Boredom, Depression, Anxiety",mental obsession; physical urge,10,2,citalopram,9,6,,recent loss or grief; financial problems,support group,Medium,0.75
+Shelia,Kelley,29,female,opioids -> heroin,"Loneliness, Anger, Low self-esteem, Anxiety",emotional craving,7,0,,3,2,anxiety; adhd,work or school stress,therapist,Medium,0.65
+Nicholas,Freeman,25,male,opioids -> heroin,"Depression, Loneliness, Stress, Anxiety",habit-based craving,3,1,fluoxetine,3,10,anxiety; ptsd,recent loss or grief,,Medium,0.61
+Joshua,Johnson,30,male,inhalants -> glue,"Boredom, Guilt or shame, Anger",stress-induced craving; physical urge,4,4,diazepam,0,6,adhd; depression,legal issues,friends,Medium,0.33
+Daniel,Stewart,41,female,stimulants -> cocaine,"Anxiety, Anger, Loneliness, Stress, Guilt or shame, Boredom",emotional craving; stress-induced craving,1,1,diazepam,8,6,anxiety,,,High,0.37
+Evan,Anderson,58,other,cannabis -> marijuana,"Loneliness, Anger, Depression, Low self-esteem",physical urge,3,5,sertraline,1,2,,relationship issues,friends,High,0.57
+Antonio,Taylor,42,female,stimulants -> cocaine,"Low self-esteem, Anxiety, Loneliness, Depression, Anger",habit-based craving; physical urge,3,2,sertraline,1,0,,work or school stress,family,Low,0.22
+Joseph,May,59,female,stimulants -> cocaine,"Boredom, Stress, Guilt or shame, Depression, Anger",stress-induced craving; emotional craving,7,2,sertraline,7,1,,financial problems,,Low,0.13
+Heidi,Dixon,32,female,stimulants -> cocaine,"Anger, Guilt or shame, Boredom, Depression, Loneliness",stress-induced craving; physical urge,7,5,diazepam,7,3,bipolar disorder,,family,Medium,0.23
+Kelsey,Brock,47,male,sedatives -> benzodiazepines,"Guilt or shame, Anger, Depression, Loneliness, Anxiety, Low self-esteem",habit-based craving; stress-induced craving,7,2,diazepam,8,8,bipolar disorder; depression,,friends,Low,0.85
+Heather,Hall,30,other,opioids -> heroin,"Low self-esteem, Loneliness, Guilt or shame, Boredom, Anger",emotional craving,2,2,citalopram,8,8,,relationship issues,,Low,0.46
+Brent,Gomez,58,female,stimulants -> cocaine,"Guilt or shame, Loneliness, Low self-esteem, Stress, Depression, Anxiety",stress-induced craving; physical urge,9,1,,1,5,adhd; depression,relationship issues; financial problems,friends,Medium,0.49
+Ellen,Johnson,63,female,opioids -> heroin,"Anger, Guilt or shame, Stress",physical urge; stress-induced craving,2,3,sertraline,8,4,,,friends,High,0.5
+Shannon,Tyler,30,other,hallucinogens -> lsd,"Boredom, Depression, Stress, Anxiety, Loneliness, Low self-esteem",habit-based craving; mental obsession,7,1,diazepam,3,4,,work or school stress,friends,Low,0.42
+Thomas,Mcdonald,39,male,opioids -> heroin,"Stress, Depression, Anxiety",physical urge; habit-based craving,7,0,diazepam,6,4,bipolar disorder; anxiety,,family,Medium,0.87
+James,Young,29,other,inhalants -> glue,"Anxiety, Low self-esteem, Boredom, Stress, Anger",stress-induced craving; mental obsession,4,1,fluoxetine,4,2,,legal issues,,Low,0.72
+Deborah,Thompson,56,male,inhalants -> glue,"Low self-esteem, Depression, Anxiety, Anger, Stress, Guilt or shame",physical urge; stress-induced craving,5,4,diazepam,6,6,,,,High,0.7
+April,Jones,64,male,sedatives -> benzodiazepines,"Depression, Boredom, Low self-esteem, Anger, Loneliness, Anxiety",emotional craving; physical urge,10,0,,2,0,anxiety,legal issues; financial problems,therapist,High,0.84
+Edward,Hickman,24,male,hallucinogens -> lsd,"Anxiety, Loneliness, Low self-esteem",stress-induced craving,10,4,diazepam,0,9,,,therapist,High,0.84
+Adam,Jefferson,49,male,stimulants -> cocaine,"Low self-esteem, Loneliness, Anger, Boredom, Anxiety, Guilt or shame",physical urge,3,5,,7,7,ptsd; bipolar disorder,health problems,therapist,Medium,0.16
+Reginald,Mckinney,25,other,club drugs -> mdma,"Anxiety, Stress, Guilt or shame",habit-based craving,3,2,diazepam,2,1,ptsd; adhd,financial problems; recent loss or grief,support group,Medium,0.54
+Jack,Frost,53,male,cannabis -> marijuana,"Loneliness, Stress, Anger, Boredom, Guilt or shame",stress-induced craving; emotional craving,2,4,sertraline,5,7,anxiety; bipolar disorder,recent loss or grief,friends,Medium,0.57
+Luis,Mcdonald,41,male,club drugs -> mdma,"Boredom, Anger, Anxiety, Low self-esteem, Stress, Loneliness",physical urge,5,5,,9,9,adhd,recent loss or grief,friends,High,0.43
+Janet,Case,58,female,sedatives -> benzodiazepines,"Depression, Loneliness, Guilt or shame, Anxiety",physical urge; stress-induced craving,5,4,diazepam,3,9,adhd,relationship issues; work or school stress,support group,High,0.84
+Erica,Bennett,42,other,cannabis -> marijuana,"Loneliness, Stress, Anger",habit-based craving,4,4,fluoxetine,3,7,depression,recent loss or grief,,High,0.63
+Christopher,Thompson,32,female,inhalants -> glue,"Boredom, Low self-esteem, Loneliness",habit-based craving; physical urge,1,5,citalopram,3,1,depression,work or school stress; recent loss or grief,support group,High,0.12
+Lori,Lynch,58,male,cannabis -> marijuana,"Stress, Anxiety, Loneliness, Anger, Boredom",stress-induced craving; physical urge,1,2,,3,3,anxiety; bipolar disorder,work or school stress,friends,Medium,0.41
+Yvonne,Lewis,21,female,cannabis -> marijuana,"Boredom, Loneliness, Depression, Anger, Anxiety, Low self-esteem",mental obsession,6,1,sertraline,8,11,bipolar disorder,,support group,Low,0.12
+Kathryn,Robinson,56,male,inhalants -> glue,"Low self-esteem, Guilt or shame, Loneliness",stress-induced craving,1,4,sertraline,9,5,,relationship issues; financial problems,family,High,0.55
+Spencer,Trujillo,33,other,sedatives -> benzodiazepines,"Anger, Low self-esteem, Depression, Boredom, Loneliness, Guilt or shame",stress-induced craving; mental obsession,10,3,citalopram,2,10,,legal issues; relationship issues,family,Medium,0.56
+Nicole,Martinez,23,female,hallucinogens -> lsd,"Guilt or shame, Boredom, Depression, Stress, Anger, Loneliness",emotional craving; habit-based craving,6,1,diazepam,9,0,adhd; bipolar disorder,work or school stress,,Medium,0.26
+Amy,Morrow,23,other,stimulants -> cocaine,"Anger, Boredom, Low self-esteem, Loneliness, Guilt or shame, Anxiety",habit-based craving,9,2,citalopram,10,4,ptsd; adhd,relationship issues,therapist,Medium,0.2
+Melissa,Orozco,65,female,inhalants -> glue,"Anger, Anxiety, Depression, Low self-esteem, Boredom",emotional craving; habit-based craving,8,4,sertraline,6,11,depression,work or school stress,,Medium,0.37
+Jimmy,Reeves,44,female,hallucinogens -> lsd,"Anger, Guilt or shame, Loneliness, Boredom, Depression",physical urge; mental obsession,5,1,sertraline,3,11,ptsd,recent loss or grief,support group,Low,0.78
+Gail,Bautista,24,male,hallucinogens -> lsd,"Boredom, Guilt or shame, Loneliness, Anger",emotional craving; stress-induced craving,2,3,diazepam,10,3,bipolar disorder,recent loss or grief,friends,High,0.86
+Devin,Butler,24,other,club drugs -> mdma,"Stress, Guilt or shame, Anxiety, Loneliness, Depression, Boredom",habit-based craving,10,3,,10,2,bipolar disorder,financial problems,support group,Low,0.63
+Michael,Holt,37,female,cannabis -> marijuana,"Depression, Anger, Anxiety, Loneliness",physical urge,8,5,sertraline,3,2,adhd,,family,High,0.18
+Alexis,Barrett,53,male,inhalants -> glue,"Depression, Loneliness, Anxiety",stress-induced craving,2,1,,2,8,depression; bipolar disorder,health problems; recent loss or grief,support group,Medium,0.57
+Jeffery,Smith,31,male,opioids -> heroin,"Anxiety, Low self-esteem, Boredom, Anger, Loneliness",stress-induced craving; emotional craving,8,2,,2,8,bipolar disorder; adhd,work or school stress; legal issues,friends,Low,0.56
+David,Hernandez,26,male,club drugs -> mdma,"Boredom, Stress, Anxiety, Depression, Guilt or shame, Low self-esteem",mental obsession,9,2,fluoxetine,5,5,ptsd,,family,High,0.78
+John,Hill,60,female,stimulants -> cocaine,"Anger, Depression, Boredom, Guilt or shame, Loneliness, Stress",emotional craving,3,0,sertraline,7,8,,legal issues,family,Medium,0.18
+Thomas,Gilbert,33,female,sedatives -> benzodiazepines,"Stress, Depression, Anxiety, Low self-esteem",stress-induced craving,7,4,diazepam,6,8,bipolar disorder; anxiety,work or school stress,family,Medium,0.16
+Frank,Davis,50,female,inhalants -> glue,"Boredom, Anxiety, Anger, Loneliness",habit-based craving,6,5,citalopram,6,9,,financial problems; relationship issues,family,Medium,0.35
+Krista,Zuniga,35,female,stimulants -> cocaine,"Boredom, Stress, Loneliness",mental obsession; physical urge,9,2,,8,0,depression; ptsd,work or school stress,family,Medium,0.74
+Heather,Davis,40,female,stimulants -> cocaine,"Boredom, Guilt or shame, Anger",emotional craving; habit-based craving,9,0,sertraline,2,8,ptsd,relationship issues,friends,High,0.62
+Michael,Smith,49,male,inhalants -> glue,"Depression, Anxiety, Anger",emotional craving,3,0,sertraline,3,7,adhd,legal issues,family,High,0.67
+Cody,Zamora,22,female,club drugs -> mdma,"Guilt or shame, Depression, Boredom, Anxiety",habit-based craving,8,1,,4,0,depression,financial problems,family,Medium,0.52
+Susan,Gentry,62,other,stimulants -> cocaine,"Low self-esteem, Depression, Loneliness, Anger, Guilt or shame",stress-induced craving; physical urge,6,1,fluoxetine,10,7,ptsd,,,Medium,0.58
+Rebecca,Johnson,32,female,cannabis -> marijuana,"Depression, Anger, Guilt or shame",emotional craving; mental obsession,10,0,citalopram,10,12,ptsd,relationship issues,family,High,0.21
+Ashley,Johnson,58,female,sedatives -> benzodiazepines,"Stress, Low self-esteem, Anger",physical urge; emotional craving,10,5,,3,11,anxiety,financial problems; recent loss or grief,friends,High,0.31
+Linda,Choi,47,female,cannabis -> marijuana,"Low self-esteem, Anger, Guilt or shame",emotional craving; stress-induced craving,8,0,,2,12,,,friends,Low,0.14
+Laura,Gomez,20,female,cannabis -> marijuana,"Guilt or shame, Depression, Anxiety",mental obsession,6,5,fluoxetine,1,1,bipolar disorder; adhd,work or school stress,,Medium,0.49
+Christopher,Hammond,54,female,opioids -> heroin,"Anger, Low self-esteem, Loneliness",physical urge,4,1,fluoxetine,0,0,depression; bipolar disorder,,friends,Low,0.26
+Alexandria,Turner,20,other,sedatives -> benzodiazepines,"Boredom, Guilt or shame, Anger, Depression, Low self-esteem",habit-based craving; mental obsession,7,3,,2,4,depression,health problems,,Medium,0.34
+Tony,Joyce,37,male,stimulants -> cocaine,"Boredom, Stress, Low self-esteem, Anger",mental obsession,7,0,citalopram,8,1,bipolar disorder; depression,legal issues,therapist,Medium,0.34
+Gabriel,Young,65,other,inhalants -> glue,"Low self-esteem, Boredom, Stress, Depression, Guilt or shame",physical urge,5,4,,8,6,ptsd,relationship issues,family,Medium,0.11
+Samuel,Daniels,47,female,hallucinogens -> lsd,"Boredom, Anxiety, Loneliness, Guilt or shame",mental obsession,4,0,citalopram,10,4,ptsd; bipolar disorder,,support group,Medium,0.16
+Nancy,Warren,36,other,inhalants -> glue,"Stress, Loneliness, Depression, Guilt or shame, Low self-esteem, Anger",emotional craving; stress-induced craving,10,2,,4,9,adhd; bipolar disorder,,,Low,0.78
+Alyssa,Maldonado,40,female,stimulants -> cocaine,"Depression, Anger, Boredom, Anxiety, Guilt or shame, Loneliness",mental obsession; habit-based craving,6,1,,7,0,,,,High,0.55
+Doris,Rojas,19,other,stimulants -> cocaine,"Anxiety, Depression, Anger, Stress, Low self-esteem, Boredom",mental obsession,2,1,,9,4,depression; adhd,relationship issues; recent loss or grief,support group,Low,0.84
+Daniel,Johnson,29,male,opioids -> heroin,"Depression, Loneliness, Stress",habit-based craving; physical urge,2,5,citalopram,2,10,adhd,health problems; recent loss or grief,therapist,Medium,0.17
+Christopher,Adams,19,other,inhalants -> glue,"Boredom, Low self-esteem, Anxiety, Loneliness, Anger",emotional craving,8,3,citalopram,0,7,ptsd,work or school stress; relationship issues,family,Medium,0.25
+Jorge,Stewart,57,male,inhalants -> glue,"Stress, Low self-esteem, Guilt or shame, Loneliness, Anxiety, Depression",physical urge; mental obsession,10,1,,1,5,depression; adhd,work or school stress; health problems,support group,Low,0.48
+Dawn,Roberts,56,male,inhalants -> glue,"Anger, Depression, Anxiety, Boredom, Stress, Loneliness",emotional craving,2,4,citalopram,7,9,depression,legal issues,family,Medium,0.55
+Robert,Cochran,29,female,inhalants -> glue,"Depression, Stress, Boredom, Low self-esteem, Anxiety",mental obsession,2,0,fluoxetine,5,9,depression; adhd,health problems; work or school stress,family,Medium,0.31
+Danielle,Hunt,48,other,inhalants -> glue,"Stress, Loneliness, Low self-esteem",mental obsession; stress-induced craving,2,4,diazepam,9,4,ptsd,legal issues,family,High,0.73
+Deborah,Woods,64,other,opioids -> heroin,"Loneliness, Anxiety, Low self-esteem, Boredom, Guilt or shame, Anger",habit-based craving,1,3,,4,1,adhd; depression,recent loss or grief,support group,Medium,0.31
+Benjamin,Dunn,36,other,sedatives -> benzodiazepines,"Stress, Loneliness, Anger, Guilt or shame, Boredom",mental obsession; emotional craving,10,3,sertraline,6,11,bipolar disorder,,,Low,0.22
+Darlene,Stephens,61,male,inhalants -> glue,"Guilt or shame, Anxiety, Loneliness, Depression",habit-based craving,8,3,,3,10,depression,financial problems,support group,Medium,0.63
+Thomas,Oneal,62,male,stimulants -> cocaine,"Depression, Loneliness, Guilt or shame, Anxiety, Stress",mental obsession; stress-induced craving,8,2,sertraline,4,1,adhd,financial problems; health problems,,Low,0.15
+Jack,Delacruz,28,other,hallucinogens -> lsd,"Low self-esteem, Stress, Anxiety",physical urge; habit-based craving,10,4,,5,12,anxiety,,,Low,0.14
+David,Ferguson,47,female,cannabis -> marijuana,"Anxiety, Guilt or shame, Stress, Depression, Low self-esteem",habit-based craving,10,0,,2,12,,work or school stress,friends,Medium,0.84
+Bailey,Thomas,56,other,club drugs -> mdma,"Stress, Low self-esteem, Anxiety, Loneliness, Guilt or shame",mental obsession; stress-induced craving,5,4,,3,1,bipolar disorder,relationship issues,family,Low,0.79
+Dorothy,Jennings,38,male,sedatives -> benzodiazepines,"Low self-esteem, Anger, Loneliness, Anxiety, Depression",stress-induced craving,3,0,citalopram,4,7,adhd,,therapist,Medium,0.9
+Daniel,Hammond,58,female,opioids -> heroin,"Depression, Boredom, Anxiety, Guilt or shame",habit-based craving; mental obsession,9,4,citalopram,7,1,,,family,Low,0.73
+Alyssa,Gonzales,40,male,club drugs -> mdma,"Boredom, Depression, Anger, Stress",physical urge,3,0,fluoxetine,8,3,bipolar disorder,legal issues; work or school stress,family,Low,0.25
+Michael,Conway,41,female,club drugs -> mdma,"Boredom, Depression, Anxiety",mental obsession; stress-induced craving,10,0,sertraline,5,11,bipolar disorder; anxiety,financial problems,family,Medium,0.25
+Charles,Smith,28,male,club drugs -> mdma,"Loneliness, Stress, Boredom, Depression, Anger, Low self-esteem",habit-based craving; physical urge,10,4,diazepam,8,1,bipolar disorder,legal issues,family,Medium,0.23
+Krista,Powell,19,other,opioids -> heroin,"Anxiety, Guilt or shame, Stress, Low self-esteem, Loneliness, Anger",physical urge; emotional craving,10,3,,4,4,adhd; depression,legal issues,,Medium,0.13
+Julie,Flores,38,other,club drugs -> mdma,"Boredom, Loneliness, Guilt or shame",emotional craving,10,4,diazepam,1,11,ptsd,health problems; legal issues,family,Medium,0.49
+Julie,Davis,27,other,stimulants -> cocaine,"Loneliness, Low self-esteem, Anger",emotional craving,3,5,citalopram,8,7,adhd; ptsd,,,Medium,0.57
+Cassandra,Flores,39,female,opioids -> heroin,"Loneliness, Anxiety, Anger, Low self-esteem, Stress, Depression",habit-based craving; mental obsession,9,3,sertraline,3,0,anxiety; depression,work or school stress,friends,Medium,0.16
+Jennifer,Singh,41,male,cannabis -> marijuana,"Boredom, Anger, Stress, Anxiety, Loneliness, Depression",habit-based craving; physical urge,3,3,,10,1,,work or school stress; health problems,family,Low,0.47
+Chris,Smith,31,other,stimulants -> cocaine,"Depression, Stress, Loneliness, Anxiety",emotional craving; stress-induced craving,8,4,,4,9,anxiety,financial problems; legal issues,family,Medium,0.22
+Brandon,Thompson,35,male,inhalants -> glue,"Depression, Low self-esteem, Guilt or shame, Anger",emotional craving; habit-based craving,1,3,fluoxetine,6,7,,legal issues; relationship issues,family,Medium,0.84
+Jeffery,Wall,28,other,inhalants -> glue,"Loneliness, Anxiety, Stress, Depression, Guilt or shame, Anger",physical urge; mental obsession,1,5,citalopram,7,3,ptsd,recent loss or grief,,Medium,0.12
+Christina,Guerra,55,female,hallucinogens -> lsd,"Guilt or shame, Stress, Anxiety, Anger, Boredom, Low self-esteem",mental obsession,9,3,diazepam,4,0,anxiety; adhd,recent loss or grief,,Low,0.88
+William,Ball,23,male,sedatives -> benzodiazepines,"Loneliness, Stress, Anger, Low self-esteem, Guilt or shame, Anxiety",physical urge,10,1,,8,6,,,family,Medium,0.67
+Earl,Hodge,32,other,stimulants -> cocaine,"Guilt or shame, Boredom, Stress, Anger, Low self-esteem, Loneliness",habit-based craving; emotional craving,3,0,sertraline,10,9,bipolar disorder; depression,relationship issues; work or school stress,,Medium,0.34
+Kenneth,Moore,63,female,stimulants -> cocaine,"Boredom, Stress, Anger, Anxiety, Guilt or shame",stress-induced craving,7,5,,3,11,anxiety; depression,health problems; work or school stress,,High,0.71
+Scott,Smith,58,male,hallucinogens -> lsd,"Guilt or shame, Anger, Depression, Low self-esteem",mental obsession,2,2,sertraline,8,9,adhd; anxiety,relationship issues,support group,Medium,0.75
+Keith,Cooper,48,other,cannabis -> marijuana,"Anger, Stress, Loneliness, Anxiety",emotional craving,2,3,diazepam,9,2,depression; adhd,,support group,High,0.62
+David,Chandler,45,other,sedatives -> benzodiazepines,"Low self-esteem, Boredom, Guilt or shame, Anger",habit-based craving,9,5,fluoxetine,4,10,bipolar disorder,,,Medium,0.26
+Micheal,Washington,49,other,cannabis -> marijuana,"Depression, Stress, Boredom",habit-based craving,7,0,citalopram,7,5,ptsd; depression,financial problems,friends,High,0.12
+Marcus,Hale,55,other,sedatives -> benzodiazepines,"Anxiety, Loneliness, Anger, Stress",mental obsession,8,5,diazepam,3,1,,financial problems; work or school stress,friends,Medium,0.82
+Joanna,Moyer,22,female,stimulants -> cocaine,"Depression, Anger, Guilt or shame, Stress",stress-induced craving; emotional craving,2,2,diazepam,6,3,depression,legal issues,therapist,Low,0.71
+David,Nicholson,37,male,cannabis -> marijuana,"Anxiety, Low self-esteem, Depression, Boredom, Guilt or shame",emotional craving,5,0,,0,3,bipolar disorder,financial problems; health problems,friends,Medium,0.77
+Christopher,Hill,51,other,cannabis -> marijuana,"Low self-esteem, Stress, Boredom, Anger, Guilt or shame",physical urge,9,3,sertraline,0,2,anxiety; ptsd,relationship issues; health problems,friends,Medium,0.9
+Jordan,Patrick,24,male,sedatives -> benzodiazepines,"Loneliness, Stress, Boredom, Low self-esteem",mental obsession,2,3,diazepam,8,9,adhd; ptsd,,family,Medium,0.68
+Douglas,Rodriguez,27,male,stimulants -> cocaine,"Depression, Loneliness, Anger, Anxiety",habit-based craving,10,0,,8,4,ptsd; bipolar disorder,recent loss or grief,,Medium,0.15
+Ian,Olson,56,male,hallucinogens -> lsd,"Guilt or shame, Anxiety, Loneliness, Depression, Boredom",habit-based craving; physical urge,2,0,,3,10,,,support group,High,0.55
+Robert,Day,20,male,hallucinogens -> lsd,"Loneliness, Anxiety, Boredom, Low self-esteem, Stress",habit-based craving; physical urge,4,5,sertraline,1,8,bipolar disorder; anxiety,relationship issues,support group,Low,0.26
+Krystal,Robinson,29,male,cannabis -> marijuana,"Loneliness, Stress, Boredom, Low self-esteem, Depression, Anger",stress-induced craving; physical urge,4,4,,1,10,anxiety; depression,recent loss or grief,,High,0.56
+Adam,Ritter,18,other,hallucinogens -> lsd,"Stress, Boredom, Anxiety, Loneliness",emotional craving; physical urge,4,0,,7,6,bipolar disorder,legal issues,family,Low,0.72
+Abigail,Huffman,61,male,stimulants -> cocaine,"Low self-esteem, Anxiety, Boredom",emotional craving; mental obsession,7,1,,2,8,depression,financial problems,family,Low,0.61
+Angela,Mack,47,male,inhalants -> glue,"Depression, Guilt or shame, Anger, Stress",emotional craving,7,0,,7,9,anxiety,financial problems,friends,Medium,0.38
+Margaret,Perez,40,other,cannabis -> marijuana,"Anxiety, Boredom, Low self-esteem, Depression",mental obsession,8,0,citalopram,9,9,bipolar disorder,,support group,High,0.48
+Kirk,Ortega,58,female,club drugs -> mdma,"Anxiety, Depression, Boredom, Loneliness, Anger",stress-induced craving,8,0,,1,12,depression; bipolar disorder,legal issues,friends,Low,0.52
+Douglas,Brown,61,male,hallucinogens -> lsd,"Boredom, Low self-esteem, Stress, Guilt or shame, Anger, Depression",stress-induced craving; habit-based craving,3,4,sertraline,7,0,,,friends,Low,0.2
+Robert,White,29,female,cannabis -> marijuana,"Anxiety, Loneliness, Boredom",mental obsession,4,5,citalopram,5,5,,legal issues,support group,Low,0.35
+Matthew,Jackson,53,male,sedatives -> benzodiazepines,"Loneliness, Boredom, Low self-esteem",emotional craving; habit-based craving,4,0,fluoxetine,1,3,anxiety; adhd,,friends,Low,0.57
+Tina,Leon,50,male,stimulants -> cocaine,"Loneliness, Stress, Boredom, Anxiety",habit-based craving; physical urge,7,5,fluoxetine,1,8,depression; ptsd,financial problems,,High,0.61
+Christine,Blackwell,33,other,opioids -> heroin,"Boredom, Guilt or shame, Stress, Low self-esteem, Anxiety",mental obsession,6,1,sertraline,6,12,depression,recent loss or grief; health problems,friends,Medium,0.87
+Traci,Moreno,34,male,hallucinogens -> lsd,"Anger, Depression, Loneliness, Stress, Low self-esteem",habit-based craving; mental obsession,3,2,diazepam,7,2,depression,,therapist,Medium,0.74
+Whitney,Higgins,47,other,stimulants -> cocaine,"Guilt or shame, Loneliness, Boredom",physical urge,3,0,,2,7,,,,Low,0.11
+Alan,Shaffer,29,male,stimulants -> cocaine,"Boredom, Low self-esteem, Stress, Depression, Anxiety",stress-induced craving; mental obsession,7,1,sertraline,9,8,adhd,legal issues; work or school stress,friends,Low,0.58
+Joshua,Booker,37,female,hallucinogens -> lsd,"Low self-esteem, Depression, Stress, Anxiety",emotional craving; physical urge,8,2,,1,5,depression,relationship issues,family,High,0.52
+Edward,Adams,30,male,club drugs -> mdma,"Boredom, Depression, Anxiety",physical urge; emotional craving,1,5,sertraline,10,2,anxiety; depression,recent loss or grief,therapist,High,0.34
+Lisa,Russo,33,other,stimulants -> cocaine,"Loneliness, Boredom, Guilt or shame",habit-based craving; emotional craving,9,2,,1,0,anxiety,work or school stress; financial problems,,High,0.75
+Bryan,Lane,48,other,club drugs -> mdma,"Loneliness, Anger, Low self-esteem, Depression, Boredom",habit-based craving; stress-induced craving,1,2,,3,4,ptsd,,friends,Low,0.17
+Michelle,Brown,54,male,hallucinogens -> lsd,"Low self-esteem, Guilt or shame, Depression",mental obsession,4,5,,1,11,,relationship issues; work or school stress,therapist,Low,0.26
+Hannah,Brown,60,other,cannabis -> marijuana,"Low self-esteem, Stress, Loneliness, Anger, Depression, Boredom",mental obsession,3,2,fluoxetine,3,4,ptsd; adhd,recent loss or grief,family,Medium,0.11
+Phillip,Good,27,other,stimulants -> cocaine,"Guilt or shame, Loneliness, Boredom, Depression, Stress, Anxiety",physical urge,10,2,sertraline,0,4,adhd,work or school stress; recent loss or grief,therapist,Low,0.35
+Ronald,Dunn,45,male,opioids -> heroin,"Loneliness, Anxiety, Anger, Guilt or shame",mental obsession,7,0,,9,5,adhd; ptsd,work or school stress,therapist,Medium,0.14
+Mary,Meyer,28,other,stimulants -> cocaine,"Low self-esteem, Anger, Boredom",emotional craving,7,2,sertraline,2,10,anxiety,relationship issues,therapist,High,0.59
+Robert,Rodriguez,60,other,opioids -> heroin,"Stress, Low self-esteem, Anger, Boredom, Anxiety, Loneliness",emotional craving; stress-induced craving,3,3,sertraline,6,10,,work or school stress,,Medium,0.26
+Michael,Gallegos,33,male,club drugs -> mdma,"Depression, Stress, Low self-esteem, Boredom",stress-induced craving,2,0,,0,6,,,,Medium,0.24
+George,Evans,29,other,opioids -> heroin,"Guilt or shame, Boredom, Anxiety",habit-based craving,3,2,,4,2,,work or school stress,therapist,Medium,0.27
+Tyler,Taylor,56,female,club drugs -> mdma,"Anxiety, Boredom, Anger, Low self-esteem",habit-based craving,3,5,,8,4,,health problems,friends,Medium,0.22
+Brandon,Griffith,50,male,cannabis -> marijuana,"Stress, Low self-esteem, Loneliness, Guilt or shame, Anger",stress-induced craving,2,1,,9,4,anxiety,work or school stress,friends,Low,0.33
+Grace,Williams,43,other,hallucinogens -> lsd,"Boredom, Low self-esteem, Stress, Anxiety, Depression, Anger",mental obsession,4,5,citalopram,9,11,bipolar disorder,,support group,Low,0.42
+Patrick,Burns,39,other,cannabis -> marijuana,"Loneliness, Low self-esteem, Stress, Anxiety, Depression, Guilt or shame",habit-based craving,3,5,citalopram,1,2,depression,financial problems; health problems,support group,Medium,0.28
+Matthew,Evans,25,female,hallucinogens -> lsd,"Boredom, Anger, Low self-esteem, Depression, Guilt or shame, Loneliness",mental obsession; emotional craving,9,3,diazepam,7,9,depression; adhd,relationship issues,therapist,Medium,0.48
+Hannah,Klein,33,other,club drugs -> mdma,"Loneliness, Guilt or shame, Anxiety, Boredom, Low self-esteem",emotional craving; stress-induced craving,8,0,citalopram,9,3,depression; anxiety,,family,Low,0.8
+Tyler,White,21,other,club drugs -> mdma,"Boredom, Depression, Stress, Loneliness, Anger",mental obsession,7,1,sertraline,1,0,,financial problems; recent loss or grief,,Medium,0.15
+Daniel,Cole,46,other,opioids -> heroin,"Anger, Guilt or shame, Stress, Loneliness, Low self-esteem, Depression",emotional craving; habit-based craving,7,2,,2,7,adhd; ptsd,work or school stress,therapist,Low,0.33
+Tyler,Gallagher,56,other,hallucinogens -> lsd,"Guilt or shame, Stress, Anxiety, Depression, Low self-esteem, Boredom",physical urge,4,3,sertraline,2,1,adhd; anxiety,relationship issues; work or school stress,family,Medium,0.6
+Anthony,Simmons,21,female,inhalants -> glue,"Stress, Low self-esteem, Loneliness, Boredom, Anger",habit-based craving,4,3,sertraline,4,0,,,support group,Medium,0.77
+Anne,Moore,26,male,inhalants -> glue,"Guilt or shame, Depression, Loneliness, Anxiety, Low self-esteem, Anger",physical urge; habit-based craving,8,5,sertraline,2,0,bipolar disorder,financial problems,support group,Medium,0.51
+Debra,Barber,56,other,cannabis -> marijuana,"Stress, Anxiety, Loneliness, Guilt or shame, Low self-esteem",mental obsession,4,1,sertraline,7,11,,financial problems,,Medium,0.8
+Carla,Gonzalez,57,female,hallucinogens -> lsd,"Guilt or shame, Anxiety, Stress",stress-induced craving; emotional craving,3,3,diazepam,4,11,,,support group,High,0.35
+Kristin,Wright,45,other,cannabis -> marijuana,"Boredom, Anger, Depression, Guilt or shame, Loneliness",stress-induced craving,9,1,citalopram,2,1,depression; anxiety,work or school stress; legal issues,family,Low,0.3
+Lori,Rodriguez,42,other,stimulants -> cocaine,"Anxiety, Guilt or shame, Boredom, Stress, Anger, Low self-esteem",habit-based craving; stress-induced craving,4,0,citalopram,1,12,ptsd,financial problems; legal issues,support group,Low,0.15
+Christopher,Harris,57,other,sedatives -> benzodiazepines,"Stress, Anger, Low self-esteem, Guilt or shame, Depression",stress-induced craving; emotional craving,2,2,,8,5,bipolar disorder; depression,financial problems,,Low,0.89
+Nicholas,Chavez,30,male,hallucinogens -> lsd,"Boredom, Anxiety, Loneliness, Stress, Depression, Low self-esteem",physical urge,4,2,diazepam,6,12,ptsd,financial problems,friends,High,0.82
+Michael,Vasquez,51,female,sedatives -> benzodiazepines,"Boredom, Low self-esteem, Guilt or shame, Stress, Anxiety, Anger",mental obsession; emotional craving,10,2,citalopram,9,0,anxiety,relationship issues,,Medium,0.25
+Jennifer,Finley,63,female,cannabis -> marijuana,"Stress, Depression, Boredom, Guilt or shame, Low self-esteem",stress-induced craving; physical urge,9,3,citalopram,7,7,bipolar disorder,legal issues,,Low,0.31
+William,Martinez,59,male,inhalants -> glue,"Boredom, Anxiety, Depression, Low self-esteem, Anger, Guilt or shame",habit-based craving,4,5,sertraline,2,3,bipolar disorder,legal issues,therapist,Medium,0.89
+Robert,Lynch,44,male,cannabis -> marijuana,"Low self-esteem, Stress, Depression, Boredom",physical urge; mental obsession,6,4,,10,8,,financial problems,friends,Medium,0.48
+Eric,Castillo,22,other,club drugs -> mdma,"Depression, Low self-esteem, Guilt or shame",physical urge; mental obsession,3,4,citalopram,10,8,adhd,,support group,Medium,0.63
+Frank,Mccarty,62,other,sedatives -> benzodiazepines,"Loneliness, Stress, Boredom, Anger, Anxiety",stress-induced craving; habit-based craving,4,3,,3,0,anxiety,legal issues,support group,Medium,0.54
+Stephen,Bradley,37,male,sedatives -> benzodiazepines,"Depression, Guilt or shame, Loneliness, Anxiety",mental obsession; emotional craving,3,4,fluoxetine,6,1,anxiety; depression,health problems; work or school stress,support group,Medium,0.2
+Tiffany,Richardson,48,female,opioids -> heroin,"Anger, Loneliness, Boredom, Anxiety, Low self-esteem, Stress",emotional craving; stress-induced craving,7,5,fluoxetine,9,2,,work or school stress; health problems,friends,Low,0.38
+Brandon,Lyons,48,female,opioids -> heroin,"Guilt or shame, Anxiety, Boredom",physical urge,6,1,sertraline,0,8,anxiety; bipolar disorder,legal issues,support group,Medium,0.12
+Patrick,Walker,27,other,cannabis -> marijuana,"Guilt or shame, Loneliness, Anxiety, Boredom, Low self-esteem",mental obsession; habit-based craving,7,5,diazepam,1,6,anxiety; bipolar disorder,financial problems,family,Medium,0.2
+Victoria,Brown,62,other,club drugs -> mdma,"Guilt or shame, Depression, Anger, Anxiety, Boredom, Low self-esteem",stress-induced craving; physical urge,7,0,diazepam,8,8,,relationship issues,friends,Low,0.14
+Anna,Wheeler,53,male,inhalants -> glue,"Boredom, Low self-esteem, Guilt or shame, Loneliness, Anxiety",mental obsession; emotional craving,10,3,diazepam,7,10,,recent loss or grief,family,Medium,0.36
+Jennifer,Davis,25,male,sedatives -> benzodiazepines,"Stress, Anger, Loneliness, Depression, Anxiety",mental obsession,7,5,fluoxetine,0,2,,,support group,High,0.54
+Steven,Smith,47,female,cannabis -> marijuana,"Boredom, Stress, Depression, Low self-esteem",mental obsession,1,4,fluoxetine,2,7,,recent loss or grief; financial problems,support group,Medium,0.63
+Charles,Kemp,54,male,hallucinogens -> lsd,"Anxiety, Low self-esteem, Loneliness",mental obsession; habit-based craving,8,5,diazepam,3,4,adhd; bipolar disorder,relationship issues,support group,High,0.56
+Christine,Butler,54,male,stimulants -> cocaine,"Loneliness, Anger, Anxiety",physical urge,5,5,,7,0,,recent loss or grief; financial problems,friends,Medium,0.26
+Charles,Hernandez,48,female,stimulants -> cocaine,"Boredom, Anxiety, Anger, Stress, Loneliness, Guilt or shame",stress-induced craving; mental obsession,10,1,fluoxetine,2,6,anxiety,,friends,Medium,0.23
+Megan,Salazar,58,other,opioids -> heroin,"Anxiety, Loneliness, Anger",emotional craving,8,5,sertraline,7,0,bipolar disorder,legal issues,,Low,0.71
+Joshua,Scott,37,male,stimulants -> cocaine,"Anger, Depression, Boredom, Loneliness, Low self-esteem, Guilt or shame",mental obsession; emotional craving,8,2,diazepam,2,3,ptsd; bipolar disorder,legal issues,family,Medium,0.82
+Christie,Morris,52,other,sedatives -> benzodiazepines,"Boredom, Anxiety, Depression, Stress, Low self-esteem",mental obsession; physical urge,5,1,fluoxetine,4,6,,relationship issues,therapist,Medium,0.21
+Christopher,Lawrence,63,female,club drugs -> mdma,"Boredom, Low self-esteem, Stress, Anger",emotional craving; stress-induced craving,6,3,diazepam,10,3,anxiety,health problems,family,Medium,0.66
+Timothy,Horn,43,female,inhalants -> glue,"Anxiety, Boredom, Guilt or shame, Stress",physical urge; stress-induced craving,3,3,,7,0,bipolar disorder,recent loss or grief; financial problems,family,High,0.89
+Felicia,Michael,40,female,club drugs -> mdma,"Depression, Boredom, Anger, Anxiety, Low self-esteem",habit-based craving; emotional craving,1,0,diazepam,6,3,,financial problems,friends,Medium,0.15
+Crystal,Morris,27,male,hallucinogens -> lsd,"Loneliness, Anxiety, Guilt or shame",physical urge,4,2,sertraline,0,11,depression; adhd,financial problems; recent loss or grief,family,Medium,0.65
+Joshua,Martinez,46,other,sedatives -> benzodiazepines,"Anger, Boredom, Depression, Loneliness",stress-induced craving; mental obsession,2,2,sertraline,4,1,depression,,friends,Medium,0.21
+Aaron,Rose,30,female,stimulants -> cocaine,"Anxiety, Anger, Loneliness, Depression, Stress",stress-induced craving; habit-based craving,6,1,sertraline,2,2,,,family,Medium,0.54
+Alice,Campbell,65,other,opioids -> heroin,"Low self-esteem, Anxiety, Anger",emotional craving; stress-induced craving,5,0,,2,9,adhd,legal issues; work or school stress,,Low,0.68
+Michael,Ford,45,male,cannabis -> marijuana,"Stress, Loneliness, Guilt or shame",stress-induced craving; mental obsession,9,0,,10,8,bipolar disorder; ptsd,financial problems; legal issues,support group,Low,0.62
+Brian,George,39,female,inhalants -> glue,"Anger, Depression, Loneliness, Stress, Low self-esteem",habit-based craving,8,0,diazepam,6,0,,,therapist,Medium,0.8
+William,Williams,42,other,cannabis -> marijuana,"Anger, Guilt or shame, Low self-esteem, Stress, Loneliness, Anxiety",habit-based craving; stress-induced craving,10,1,,0,0,anxiety; bipolar disorder,work or school stress; recent loss or grief,,Medium,0.55
+Kevin,Williams,59,male,inhalants -> glue,"Stress, Anger, Low self-esteem, Boredom",habit-based craving,3,4,sertraline,0,3,,recent loss or grief,friends,Low,0.77
+Jacob,Quinn,62,other,club drugs -> mdma,"Depression, Loneliness, Anger, Stress",stress-induced craving; mental obsession,4,5,citalopram,5,12,,legal issues; health problems,family,Medium,0.2
+Jessica,Glover,54,female,hallucinogens -> lsd,"Boredom, Stress, Anger, Loneliness, Depression",stress-induced craving; emotional craving,3,0,fluoxetine,8,10,depression,legal issues,support group,High,0.79
+Brian,Miller,29,female,cannabis -> marijuana,"Anger, Guilt or shame, Low self-esteem, Anxiety, Boredom",habit-based craving; physical urge,10,4,,0,3,depression,recent loss or grief,therapist,Low,0.63
+Renee,Lee,31,other,inhalants -> glue,"Loneliness, Boredom, Anxiety",habit-based craving,2,1,,9,11,bipolar disorder,work or school stress; health problems,support group,Low,0.56
+Ashley,Murphy,64,other,stimulants -> cocaine,"Boredom, Depression, Anger",physical urge; emotional craving,6,0,fluoxetine,1,3,ptsd,relationship issues,therapist,Medium,0.42
+Tara,Singleton,44,female,hallucinogens -> lsd,"Anxiety, Anger, Depression, Stress, Loneliness",mental obsession; stress-induced craving,3,1,fluoxetine,9,11,anxiety; adhd,financial problems,friends,Low,0.88
+Linda,Mejia,52,female,stimulants -> cocaine,"Stress, Depression, Guilt or shame",emotional craving,6,1,,3,8,bipolar disorder,legal issues; health problems,friends,Low,0.14
+Jennifer,Cross,35,other,stimulants -> cocaine,"Low self-esteem, Anxiety, Stress",mental obsession; emotional craving,2,0,,7,11,depression; bipolar disorder,health problems,therapist,Medium,0.25
+Larry,Wagner,52,other,stimulants -> cocaine,"Stress, Guilt or shame, Anxiety",emotional craving,2,0,citalopram,3,1,bipolar disorder; anxiety,health problems,support group,Low,0.43
+Chloe,Wood,26,female,inhalants -> glue,"Loneliness, Stress, Low self-esteem",mental obsession,10,2,,10,8,anxiety,financial problems; legal issues,therapist,High,0.89
+April,Diaz,51,male,hallucinogens -> lsd,"Boredom, Anxiety, Guilt or shame, Stress",habit-based craving,10,4,fluoxetine,3,4,bipolar disorder; anxiety,legal issues,therapist,High,0.67
+Daniel,Johnson,19,male,sedatives -> benzodiazepines,"Anger, Depression, Low self-esteem, Boredom, Stress",mental obsession; physical urge,4,5,citalopram,8,4,adhd,financial problems; relationship issues,,Medium,0.74
+Aaron,Stewart,23,male,cannabis -> marijuana,"Guilt or shame, Depression, Loneliness, Boredom, Stress",physical urge; mental obsession,2,1,fluoxetine,3,6,ptsd,financial problems,,Medium,0.44
+Alexander,Johnson,43,male,club drugs -> mdma,"Stress, Depression, Boredom, Loneliness, Anger, Low self-esteem",mental obsession; stress-induced craving,10,2,,7,11,depression; ptsd,health problems,therapist,High,0.54
+Lacey,Stevens,55,female,inhalants -> glue,"Low self-esteem, Anger, Guilt or shame, Stress",mental obsession,5,0,,5,10,bipolar disorder; ptsd,relationship issues; financial problems,support group,Medium,0.36
+Scott,Brown,25,other,inhalants -> glue,"Depression, Boredom, Loneliness, Anxiety, Stress",mental obsession,3,4,,2,3,,,family,Medium,0.33
+Lauren,Thompson,39,other,inhalants -> glue,"Low self-esteem, Stress, Anger",stress-induced craving,4,2,diazepam,0,7,ptsd; depression,financial problems,,Medium,0.55
+Danielle,Tran,19,male,hallucinogens -> lsd,"Low self-esteem, Loneliness, Stress, Guilt or shame, Anger, Depression",stress-induced craving; habit-based craving,6,1,sertraline,3,6,bipolar disorder; adhd,recent loss or grief,friends,Low,0.85
+Brandon,Campbell,59,male,inhalants -> glue,"Low self-esteem, Anger, Boredom, Depression, Stress",physical urge,4,1,,7,0,,legal issues; health problems,family,Medium,0.72
+William,Waller,55,female,opioids -> heroin,"Loneliness, Low self-esteem, Anger",stress-induced craving,9,1,fluoxetine,5,0,,relationship issues; work or school stress,friends,Low,0.11
+Elizabeth,Jackson,59,other,sedatives -> benzodiazepines,"Loneliness, Stress, Guilt or shame",emotional craving; stress-induced craving,2,1,sertraline,10,6,adhd,legal issues; work or school stress,friends,Low,0.44
+Brandon,Schroeder,42,other,cannabis -> marijuana,"Depression, Guilt or shame, Anxiety, Stress, Low self-esteem",physical urge,9,3,diazepam,4,3,ptsd; adhd,recent loss or grief,therapist,Medium,0.35
+Jennifer,Gordon,42,other,hallucinogens -> lsd,"Boredom, Loneliness, Guilt or shame, Depression, Stress, Anger",physical urge; habit-based craving,7,5,,1,2,ptsd,legal issues,family,Medium,0.47
+William,Hernandez,47,female,inhalants -> glue,"Low self-esteem, Guilt or shame, Anxiety",emotional craving; mental obsession,6,5,,8,4,depression,legal issues; health problems,,Medium,0.55
+Jason,Melendez,55,female,sedatives -> benzodiazepines,"Boredom, Depression, Anxiety",emotional craving,1,2,fluoxetine,8,3,bipolar disorder,health problems,,Medium,0.74
+Ryan,Perkins,37,female,hallucinogens -> lsd,"Loneliness, Anxiety, Boredom, Guilt or shame, Depression",emotional craving,2,5,sertraline,1,1,adhd,recent loss or grief; health problems,therapist,Medium,0.71
+Christian,Miller,55,male,stimulants -> cocaine,"Depression, Boredom, Stress",emotional craving,8,2,fluoxetine,10,12,,,,High,0.79
+Edward,Fisher,20,male,opioids -> heroin,"Boredom, Low self-esteem, Loneliness, Depression",mental obsession; habit-based craving,1,3,sertraline,6,8,depression; adhd,financial problems; relationship issues,support group,High,0.61
+Andrew,Haynes,40,other,inhalants -> glue,"Depression, Anxiety, Stress, Guilt or shame",mental obsession; stress-induced craving,2,1,fluoxetine,7,9,,legal issues; recent loss or grief,friends,Medium,0.63
+Eric,Briggs,49,female,club drugs -> mdma,"Anger, Anxiety, Stress, Low self-esteem, Guilt or shame, Boredom",physical urge; mental obsession,2,1,,7,6,adhd; anxiety,health problems; financial problems,,Medium,0.18
+Diane,Ray,60,other,club drugs -> mdma,"Stress, Depression, Guilt or shame, Anger, Boredom, Low self-esteem",physical urge; emotional craving,5,0,fluoxetine,3,12,anxiety,,,High,0.57
+Joseph,Petty,18,female,cannabis -> marijuana,"Low self-esteem, Loneliness, Stress, Anger, Boredom, Anxiety",mental obsession,9,5,fluoxetine,0,5,adhd,,therapist,High,0.33
+Jason,Smith,42,other,inhalants -> glue,"Boredom, Loneliness, Guilt or shame, Depression",mental obsession,2,1,diazepam,3,9,anxiety,health problems,,Low,0.25
+Rebecca,Allen,62,male,cannabis -> marijuana,"Anger, Depression, Anxiety, Loneliness, Stress",emotional craving; mental obsession,1,5,citalopram,3,5,bipolar disorder,legal issues; financial problems,therapist,High,0.71
+Samantha,Powell,21,male,club drugs -> mdma,"Boredom, Anger, Loneliness, Low self-esteem, Stress, Anxiety",emotional craving,7,5,,7,8,bipolar disorder,work or school stress; financial problems,therapist,Low,0.32
+Joanna,Hall,65,other,opioids -> heroin,"Depression, Anger, Boredom, Anxiety, Loneliness",physical urge,9,2,fluoxetine,2,1,,recent loss or grief,family,Medium,0.36
+Christopher,Flores,42,male,hallucinogens -> lsd,"Stress, Low self-esteem, Guilt or shame, Anger, Boredom, Loneliness",stress-induced craving,5,3,diazepam,0,6,ptsd; depression,recent loss or grief; work or school stress,,Medium,0.81
+Justin,Burns,22,female,cannabis -> marijuana,"Stress, Depression, Low self-esteem",stress-induced craving; mental obsession,8,4,,3,7,,health problems,support group,Low,0.22
+Stephanie,Michael,63,other,hallucinogens -> lsd,"Depression, Boredom, Loneliness, Guilt or shame, Low self-esteem, Stress",stress-induced craving; physical urge,6,3,citalopram,5,2,ptsd,health problems,,Medium,0.13
+Neil,Hughes,47,male,inhalants -> glue,"Depression, Anger, Guilt or shame, Loneliness, Boredom",habit-based craving,6,0,sertraline,3,4,bipolar disorder; anxiety,work or school stress,,Low,0.72
+Jennifer,Knapp,62,other,stimulants -> cocaine,"Stress, Guilt or shame, Anxiety, Depression, Boredom, Low self-esteem",habit-based craving; stress-induced craving,4,3,sertraline,5,4,,health problems,family,Low,0.46
+Adam,Greene,54,female,opioids -> heroin,"Guilt or shame, Anxiety, Boredom",habit-based craving,5,3,diazepam,9,12,anxiety,work or school stress,,Medium,0.28
+Tony,Flores,36,female,stimulants -> cocaine,"Guilt or shame, Depression, Anxiety, Loneliness",stress-induced craving,6,5,citalopram,3,11,adhd,recent loss or grief,,Low,0.57
+Diana,Moreno,35,other,opioids -> heroin,"Loneliness, Anxiety, Depression, Anger, Low self-esteem, Guilt or shame",mental obsession; emotional craving,2,2,fluoxetine,10,3,adhd; bipolar disorder,,,Medium,0.13
+John,Schwartz,51,male,club drugs -> mdma,"Guilt or shame, Low self-esteem, Boredom, Stress, Anger, Depression",mental obsession,2,1,citalopram,10,3,anxiety,health problems,support group,Low,0.81
+Michael,Russell,57,male,hallucinogens -> lsd,"Anger, Stress, Loneliness, Depression, Low self-esteem, Guilt or shame",habit-based craving; emotional craving,2,3,citalopram,7,4,anxiety; adhd,financial problems; legal issues,support group,Low,0.34
+Susan,Kelley,30,male,club drugs -> mdma,"Low self-esteem, Anxiety, Stress, Guilt or shame, Boredom, Anger",habit-based craving; emotional craving,3,3,sertraline,8,7,anxiety; ptsd,recent loss or grief; health problems,family,Medium,0.58
+Linda,Rodgers,45,other,inhalants -> glue,"Guilt or shame, Boredom, Stress, Low self-esteem, Anxiety, Anger",emotional craving; physical urge,1,1,sertraline,1,2,adhd,health problems,support group,Medium,0.52
+Rhonda,Cunningham,22,female,cannabis -> marijuana,"Loneliness, Depression, Stress, Anger",mental obsession; physical urge,1,5,fluoxetine,4,6,depression; ptsd,,family,High,0.38
+Gary,Jordan,50,other,opioids -> heroin,"Loneliness, Low self-esteem, Boredom",physical urge,6,2,sertraline,4,6,depression,legal issues; financial problems,friends,Low,0.56
+Daniel,Jones,19,other,inhalants -> glue,"Guilt or shame, Boredom, Loneliness, Low self-esteem, Stress, Anger",stress-induced craving; emotional craving,7,2,diazepam,0,9,,financial problems,friends,Medium,0.17
+Kristen,Hudson,54,male,stimulants -> cocaine,"Low self-esteem, Stress, Guilt or shame",emotional craving; stress-induced craving,10,2,,4,0,depression; bipolar disorder,legal issues,therapist,Medium,0.61
+Amy,Gordon,24,female,inhalants -> glue,"Low self-esteem, Stress, Anger, Anxiety",stress-induced craving; emotional craving,5,3,diazepam,5,11,bipolar disorder; anxiety,relationship issues,,High,0.84
+Michael,Murphy,52,male,inhalants -> glue,"Guilt or shame, Anxiety, Stress",stress-induced craving; emotional craving,9,0,sertraline,4,12,ptsd,,therapist,Medium,0.54
+David,Rogers,25,other,opioids -> heroin,"Anxiety, Guilt or shame, Anger, Loneliness",habit-based craving; mental obsession,3,2,,10,10,depression; bipolar disorder,work or school stress; health problems,support group,Medium,0.73
+Nichole,Jones,28,other,stimulants -> cocaine,"Guilt or shame, Loneliness, Depression, Anxiety",stress-induced craving,5,2,citalopram,8,9,adhd,financial problems,family,Medium,0.27
+Russell,Baker,47,other,hallucinogens -> lsd,"Depression, Anger, Boredom, Anxiety",stress-induced craving; physical urge,10,1,diazepam,5,5,bipolar disorder; ptsd,recent loss or grief,therapist,Low,0.87
+Bruce,Singleton,32,male,opioids -> heroin,"Stress, Low self-esteem, Guilt or shame",stress-induced craving; mental obsession,7,0,,0,7,depression,relationship issues,family,High,0.59
+Dennis,Williams,45,female,cannabis -> marijuana,"Anxiety, Anger, Stress",habit-based craving; physical urge,5,3,citalopram,4,9,anxiety; depression,health problems; relationship issues,,Medium,0.44
+Erika,Greene,31,female,inhalants -> glue,"Loneliness, Low self-esteem, Anger",physical urge; habit-based craving,10,3,,3,0,depression,,therapist,Medium,0.11
+Grace,Rocha,41,female,inhalants -> glue,"Anger, Loneliness, Boredom, Depression, Guilt or shame",habit-based craving; physical urge,7,4,,8,12,bipolar disorder,relationship issues,therapist,High,0.54
+Eric,Mora,47,male,stimulants -> cocaine,"Loneliness, Low self-esteem, Stress, Guilt or shame",mental obsession; stress-induced craving,4,2,,8,12,,health problems,support group,Low,0.72
+Matthew,Carey,40,other,inhalants -> glue,"Loneliness, Low self-esteem, Guilt or shame, Anger, Stress",stress-induced craving,6,3,,9,7,ptsd,recent loss or grief,family,Low,0.36
+Christina,Price,34,other,stimulants -> cocaine,"Loneliness, Anger, Boredom, Depression, Low self-esteem",habit-based craving,3,0,fluoxetine,1,6,adhd; ptsd,work or school stress,friends,Medium,0.28
+Jessica,Wilson,64,male,hallucinogens -> lsd,"Stress, Low self-esteem, Guilt or shame",physical urge,10,3,,6,5,ptsd,financial problems; work or school stress,therapist,Low,0.72
+Jamie,Delgado,42,female,hallucinogens -> lsd,"Guilt or shame, Anxiety, Boredom, Stress, Depression, Low self-esteem",physical urge; habit-based craving,7,1,fluoxetine,0,3,depression,work or school stress; legal issues,therapist,Low,0.39
+Kathryn,Mitchell,45,female,sedatives -> benzodiazepines,"Stress, Depression, Guilt or shame, Loneliness, Anxiety",stress-induced craving,8,2,,2,9,adhd,financial problems,,Medium,0.32
+Mark,Ray,34,female,stimulants -> cocaine,"Anxiety, Guilt or shame, Loneliness, Boredom, Stress, Depression",emotional craving,3,5,fluoxetine,4,10,bipolar disorder,relationship issues,,Medium,0.78
+Joe,Fuentes,35,male,hallucinogens -> lsd,"Stress, Boredom, Depression",physical urge; mental obsession,5,0,sertraline,9,4,ptsd,recent loss or grief,,Medium,0.79
+Angela,Reed,34,other,cannabis -> marijuana,"Boredom, Stress, Depression, Guilt or shame, Anxiety, Anger",habit-based craving,3,0,fluoxetine,1,9,anxiety; ptsd,financial problems; health problems,,Low,0.36
+James,Woods,19,male,sedatives -> benzodiazepines,"Guilt or shame, Anger, Stress, Low self-esteem",habit-based craving; emotional craving,2,3,citalopram,4,3,depression; adhd,health problems; work or school stress,family,High,0.72
+Karen,Jackson,38,other,club drugs -> mdma,"Stress, Anger, Anxiety, Boredom, Low self-esteem, Depression",physical urge; stress-induced craving,6,4,sertraline,3,1,bipolar disorder,relationship issues; recent loss or grief,therapist,Medium,0.84
+Christopher,Leblanc,32,female,cannabis -> marijuana,"Stress, Anxiety, Loneliness, Low self-esteem, Guilt or shame",mental obsession; stress-induced craving,3,3,sertraline,0,10,,recent loss or grief; work or school stress,support group,Medium,0.63
+Patricia,Johnson,28,male,inhalants -> glue,"Loneliness, Guilt or shame, Stress, Depression, Low self-esteem, Anxiety",habit-based craving,4,2,citalopram,9,12,ptsd; anxiety,relationship issues,,Medium,0.76
+Michael,Buckley,44,female,hallucinogens -> lsd,"Anger, Loneliness, Stress, Boredom, Depression",physical urge,1,3,sertraline,4,12,adhd; anxiety,work or school stress; recent loss or grief,friends,High,0.25
+Stephanie,Smith,58,other,opioids -> heroin,"Boredom, Low self-esteem, Loneliness",emotional craving; mental obsession,2,1,fluoxetine,7,11,bipolar disorder,recent loss or grief,friends,Low,0.89
+Matthew,Robinson,42,male,stimulants -> cocaine,"Boredom, Low self-esteem, Depression, Guilt or shame, Anger",mental obsession; habit-based craving,9,0,fluoxetine,2,11,ptsd,health problems; recent loss or grief,family,Medium,0.42
+Danielle,Stark,34,other,stimulants -> cocaine,"Stress, Boredom, Depression",stress-induced craving,9,5,fluoxetine,4,2,anxiety; bipolar disorder,recent loss or grief,support group,High,0.69
+Theresa,Garcia,46,female,club drugs -> mdma,"Anger, Guilt or shame, Depression",mental obsession,5,5,,9,4,ptsd,legal issues,therapist,Medium,0.59
+Mary,Brooks,55,female,cannabis -> marijuana,"Stress, Anger, Boredom, Guilt or shame, Low self-esteem, Anxiety",emotional craving; habit-based craving,10,3,,3,10,depression,work or school stress,friends,Medium,0.15
+Brittany,Cowan,43,female,inhalants -> glue,"Depression, Boredom, Anxiety, Loneliness, Stress",emotional craving,6,2,diazepam,4,3,ptsd; anxiety,,family,High,0.88
+Joseph,Mason,30,female,hallucinogens -> lsd,"Loneliness, Boredom, Stress, Low self-esteem, Anger",emotional craving; physical urge,9,0,diazepam,0,1,,,support group,Medium,0.88
+Robert,Strickland,65,female,opioids -> heroin,"Boredom, Anger, Low self-esteem, Guilt or shame",habit-based craving; stress-induced craving,7,4,,4,7,anxiety,work or school stress; legal issues,family,Medium,0.35
+Alexandra,Nelson,52,female,inhalants -> glue,"Depression, Anger, Guilt or shame",stress-induced craving; habit-based craving,9,3,sertraline,8,0,adhd; depression,financial problems,,Medium,0.24
+Phillip,Myers,20,male,stimulants -> cocaine,"Boredom, Loneliness, Stress",stress-induced craving; habit-based craving,8,0,fluoxetine,10,6,depression; ptsd,relationship issues; legal issues,family,High,0.64
+Cynthia,Bryant,46,male,opioids -> heroin,"Stress, Boredom, Loneliness, Low self-esteem, Anger",habit-based craving; physical urge,6,5,citalopram,0,11,adhd; anxiety,recent loss or grief,therapist,Low,0.84
+Seth,Davies,45,other,cannabis -> marijuana,"Loneliness, Stress, Guilt or shame, Boredom, Anger",physical urge; mental obsession,10,0,citalopram,3,3,adhd,financial problems; relationship issues,family,High,0.21
+Brandi,Little,56,female,stimulants -> cocaine,"Loneliness, Boredom, Depression, Low self-esteem, Anger",mental obsession,6,4,fluoxetine,6,9,anxiety; adhd,,,Medium,0.85
+Bryan,Watson,19,male,stimulants -> cocaine,"Stress, Anger, Anxiety, Depression",habit-based craving; physical urge,4,3,,8,5,,financial problems,friends,Medium,0.17
+Jenny,Andrade,47,female,opioids -> heroin,"Loneliness, Guilt or shame, Boredom",emotional craving; habit-based craving,4,1,,8,2,adhd,relationship issues; recent loss or grief,therapist,Low,0.54
+Aimee,Solomon,39,male,hallucinogens -> lsd,"Anxiety, Guilt or shame, Low self-esteem, Boredom, Anger, Stress",physical urge; stress-induced craving,3,3,diazepam,8,11,bipolar disorder,,family,Medium,0.77
+Andrew,Tucker,63,male,opioids -> heroin,"Anxiety, Guilt or shame, Loneliness, Boredom, Anger",habit-based craving; physical urge,7,2,diazepam,5,8,bipolar disorder,work or school stress,therapist,Low,0.13
+John,Ortiz,29,other,inhalants -> glue,"Loneliness, Anger, Depression",physical urge,1,2,citalopram,1,0,ptsd; depression,health problems,,Medium,0.63
+Hayley,Rivera,37,male,inhalants -> glue,"Guilt or shame, Stress, Anxiety",physical urge; stress-induced craving,7,1,sertraline,10,7,depression,,support group,High,0.75
+Robert,Gardner,51,other,hallucinogens -> lsd,"Stress, Depression, Boredom",habit-based craving; stress-induced craving,3,2,,6,8,bipolar disorder,legal issues,therapist,Medium,0.74
+Melissa,Rodgers,29,male,stimulants -> cocaine,"Anxiety, Boredom, Loneliness, Low self-esteem",habit-based craving,2,5,,3,8,bipolar disorder,,therapist,Medium,0.6
+Angie,Hayes,54,other,inhalants -> glue,"Low self-esteem, Stress, Boredom, Anger, Depression",physical urge; habit-based craving,3,5,citalopram,1,10,depression,health problems,friends,High,0.66
+Shannon,Vargas,27,female,hallucinogens -> lsd,"Depression, Guilt or shame, Loneliness",emotional craving; stress-induced craving,9,0,,3,2,bipolar disorder,work or school stress,family,Medium,0.71
+Mary,Liu,44,male,opioids -> heroin,"Anxiety, Loneliness, Boredom, Depression, Guilt or shame",stress-induced craving; habit-based craving,2,3,diazepam,4,10,bipolar disorder; adhd,,support group,Medium,0.12
+Jeremy,Wilson,22,female,sedatives -> benzodiazepines,"Loneliness, Boredom, Guilt or shame",emotional craving,10,1,,6,4,,health problems; work or school stress,friends,Medium,0.57
+Stefanie,Foster,61,male,club drugs -> mdma,"Anxiety, Stress, Loneliness, Anger",mental obsession; physical urge,7,1,,7,0,anxiety; ptsd,financial problems,support group,Low,0.12
+Aaron,Brown,20,male,sedatives -> benzodiazepines,"Depression, Anger, Anxiety, Loneliness, Stress",stress-induced craving; emotional craving,8,1,diazepam,3,11,ptsd; depression,,,Medium,0.56
+Sarah,Ferguson,34,male,inhalants -> glue,"Anger, Loneliness, Stress, Low self-esteem",mental obsession; emotional craving,7,3,diazepam,2,7,depression; anxiety,health problems,friends,Medium,0.82
+Kevin,Lin,46,male,cannabis -> marijuana,"Guilt or shame, Low self-esteem, Anxiety",habit-based craving,4,4,citalopram,7,9,depression,financial problems,,Medium,0.22
+Anna,Bowman,21,other,stimulants -> cocaine,"Low self-esteem, Loneliness, Depression, Guilt or shame, Stress",stress-induced craving,1,2,citalopram,2,7,bipolar disorder; adhd,work or school stress; relationship issues,therapist,Low,0.63
+Donna,Jensen,19,other,sedatives -> benzodiazepines,"Low self-esteem, Anger, Depression, Stress, Anxiety, Guilt or shame",physical urge,5,5,diazepam,6,9,anxiety,health problems; financial problems,support group,Medium,0.29
+Krista,Johnson,60,male,opioids -> heroin,"Low self-esteem, Depression, Stress, Anxiety",physical urge,6,0,,0,6,anxiety; depression,,family,Medium,0.34
+Ricardo,Perez,63,female,club drugs -> mdma,"Loneliness, Depression, Anger",emotional craving; physical urge,7,5,citalopram,3,1,,legal issues,friends,Medium,0.36
+Joshua,Bowen,22,other,inhalants -> glue,"Depression, Anger, Loneliness, Boredom, Low self-esteem, Guilt or shame",habit-based craving,10,2,fluoxetine,4,2,,legal issues,,High,0.46
+Melanie,Hunter,49,other,inhalants -> glue,"Anger, Boredom, Low self-esteem, Loneliness, Depression",mental obsession,4,5,diazepam,7,3,adhd; ptsd,health problems; relationship issues,family,Medium,0.29
+Marcus,Johnson,37,female,hallucinogens -> lsd,"Depression, Low self-esteem, Guilt or shame, Stress, Anxiety, Loneliness",emotional craving,4,1,fluoxetine,10,8,adhd; bipolar disorder,,therapist,Low,0.81
+Jose,Williams,38,other,sedatives -> benzodiazepines,"Depression, Stress, Anger, Boredom, Low self-esteem, Guilt or shame",physical urge,1,3,diazepam,3,3,,recent loss or grief,friends,High,0.75
+Shannon,Berg,34,male,cannabis -> marijuana,"Anxiety, Guilt or shame, Low self-esteem, Anger",physical urge; habit-based craving,8,0,fluoxetine,0,3,,,,High,0.25
+Joshua,Singleton,65,male,sedatives -> benzodiazepines,"Anxiety, Loneliness, Depression, Boredom",habit-based craving,6,5,diazepam,5,8,adhd,legal issues,friends,Low,0.37
+Ronald,Lam,56,other,club drugs -> mdma,"Loneliness, Guilt or shame, Depression, Anxiety, Stress, Boredom",physical urge,5,3,fluoxetine,4,11,depression,work or school stress,family,Low,0.63
+Patrick,Carter,53,male,inhalants -> glue,"Guilt or shame, Loneliness, Boredom, Anxiety, Low self-esteem, Anger",emotional craving,2,5,diazepam,7,2,,,family,High,0.53
+Valerie,Howard,62,other,opioids -> heroin,"Low self-esteem, Guilt or shame, Depression, Stress, Anxiety, Loneliness",mental obsession,3,0,citalopram,6,1,bipolar disorder,financial problems; health problems,family,High,0.87
+Aaron,Acosta,40,other,cannabis -> marijuana,"Boredom, Anger, Anxiety",mental obsession,10,2,fluoxetine,2,12,,work or school stress; legal issues,family,High,0.43
+Jacqueline,Reed,29,female,opioids -> heroin,"Anger, Anxiety, Stress, Low self-esteem, Loneliness",stress-induced craving; emotional craving,5,1,fluoxetine,0,6,,financial problems; relationship issues,therapist,Low,0.66
+Max,Gar,78,f,Cannabis -> Marijuana,"Stress, Cravings, Being around substances, Peer pressure","Physical urge, Mental obsession",6,5,None,7,7,"Depression, Anxiety, Bipolar disorder","Financial problems, Relationship issues",family,Medium,0.37
+McKenna,Makran,21,f,Cannabis -> Other cannabis-containing substances,"Stress, Anxiety, Depression, Minimizing consequences, Negative self-talk, Hopelessness, Being around substances, Certain places, Feeling judged, Enabling friends or family","Physical urge, Mental obsession, Emotional craving",7,4,SSRI,7,8,Multip[le personality disorder,"Financial problems, Work or school stress, Relationship issues",Family,Medium,0.42
